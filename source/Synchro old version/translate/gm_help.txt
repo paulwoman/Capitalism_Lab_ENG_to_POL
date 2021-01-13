@@ -1,0 +1,164 @@
+GM_DIFF
+Game difficulty level
+Choose one of eight pre-set difficulty levels. You may also Customize or Randomize the game settings
+~
+GM_NOC
+Number of Cities
+Play with single or multiple cities.
+~
+GM_SUC
+Your start-up capital
+Set the level of cash your corporation has at the beginning of the game.
+~
+GM_ADV
+Your Advantage
+`
+~
+GM_ASI
+Stock Market
+The stock market allows for stock trading. 
+~
+GM_CUST
+Product Customization
+If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide. ("Technology Disruption" option is disabled when "Product Customization" is enabled.)
+~
+GM_CUSTR
+Product Customization Range
+Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies. 
+~
+GM_PRI
+Private Company (Subsidiary DLC)
+If this is set to On, your company will start as a private company.  
+~
+GM_SUE
+Alternative Stock Sim 
+If this is set to Yes, 1) stock prices are unaffected by the current economic state, and 2) stock trading between the player's company and its subsidiaries is prohibited, thus making it harder to speculate stocks for quick profits. 
+~
+GM_RE
+Random Events
+Allow such occurences as plagues, animal disease and power black-outs and their economic consequences.
+~
+GM_TEC
+Technology Disruption
+If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year. 
+~
+GM_FM
+AI Friendly Merger 
+If it is set to On, two AI corporations may merge with each other on mutually beneficial terms.
+~
+GM_MER
+Macro Economy Realism 
+If it is set to High, the macro economy in the game will be simulated with a high level of realism.
+~
+GM_INF
+Inflation 
+Inflation is enabled when this option is set to On. If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power. 
+~
+GM_INFS
+Inflation Strength 
+Select Reduced Inflation Strength if you prefer less strong inflation. As such, it will have the inflation artificially suppressed. 
+~
+GM_RST
+Retail store type
+Choose 'Many' to allow specialist stores, such as supermarkets, furniture stores etc., or 'One' to have only department stores. 
+~
+GM_GSY
+Game starting year
+Setting a later date reduces the number of technologies you must research before you are allowed to manufacture them.
+~
+GM_NOCO
+Number of competitors
+Determine the number of rival corporations you wish to play against.
+~
+GM_CSC
+Competitors' start-up capital
+Determine the initial cash reserves of rival corporations.
+~
+GM_CA
+Competitors' Aggressiveness
+Determine the economic aggressiveness of rival corporations. 
+~
+GM_CEL
+Competitors Expertise Level
+Determine the business competence of rival corporations.
+~
+GM_CADV
+Competitors' advantage
+`
+~
+GM_CTS
+Show competitors' trade secrets
+If you select "Yes" you will have knowledge of your rivals' research & development projects.
+~
+GM_CLC
+Competence of local competitors
+Determine the level of competition offered by local competitors.
+~
+GM_NOSC
+Number of seaports Importing Consumer Goods per City
+A high number of consumer seaports increases the availability of goods for retail (reduces the need for extensive manufacturing).
+~
+GM_NOSI
+Number of seaports Importing Industrial Goods per City
+A high number of industrial seaports increases the availability of manufacturing materials (increases the manufacturing potential of the city).
+~
+GM_SN
+New seaports Emerge during the game
+Choose to allow the creation of new import sources.
+~
+GM_SCI
+Constant import supply
+Constant supplies ease the problems of stockpiling products and the search for alternative supplies.
+~
+GM_SIQ
+Import quality
+Low quality products offer the chance for fledgling local manufacturers to compete. High quality products offer a more attractive retail prospect to the consumer.
+~
+CHALCONF
+You must confirm this before sending this Challenge Game to other players.
+You may start the game first, then adjust the challenge game and goal settings as needed, and finally confirm them. 
+~ 
+CHALHOW
+How-to web page 
+Launch a web browser and open the web page with instructions on how to set up a private challenge game.
+~
+GENDER_M
+Male 
+`
+~
+GENDER_F
+Female 
+`
+~
+GM_RDI1
+Randomly disable product classes
+When you select this check box, the system will randomly disable a specific percentage of product classes in the new game. 
+~
+GM_RDI2
+Percentage of product classes to be disabled
+Set the percentage of product classes to be disabled. This will make the competition more intense and improve gameplay, especially when playing a MOD game with a large variety of products. 
+~
+AIPRIVAT
+Percentage of competitors that are private companies (Subsidiary DLC)
+AI companies are randomly set up as private companies based on this preference. 
+~
+SUBCOUNT
+Your subsidiaries (Subsidiary DLC)
+The number of subsidiaries that your company owns at the beginning of the game. 
+~
+GS_PLIST
+Product List 
+You may exclude specific products from the game by either selecting them manually, or using the 'Random Disable Product Classes' feature to select them automatically. 
+~
+GM_CCITY
+First City Cash Level (City Economic Simulation DLC)
+The first city's cash level at the beginning of the game.  
+~
+GM_PUBEX
+Public Expenses Index
+This index determines the recurring expenses of public facilities, which affects the game's difficulty playing as a mayor. When it is set to a high value, the same public facility will have higher operating expenses.  
+~
+GM_RFL
+Retail Store Floors
+Choose 'Multiple' to allow for setting up multiple floors in a single retail store. 
+~

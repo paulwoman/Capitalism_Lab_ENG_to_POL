@@ -1,0 +1,1654 @@
+[0001]<VERS>Version %1s|
+[0011]<QUIT>Wyjdź|
+[0012]<TRAN>Szkolenie|
+[0017]<CANC>Anuluj|
+[0019]<NEWP>Nowy Gracz|
+[0020]<DELP>Usuń|
+[0021]<SELP>Kontynuuj|
+[0022]<PRF1>Wybierz Twoje imię z listy|
+[0023]<PRF2>Jeśli Twojego imienia nie ma na liście, wybierz "Nowy Gracz"|
+[0024]<PRFN>Wprowadź swoje imię|
+[0025]<PRFD>Jesteś pewien, że chcesz usunąć tego gracza z listy?|
+[0026]<PRDY>Tak|
+[0027]<PRDN>Nie|
+[0028]<PRED>Istnieje już taki sam profil|
+[0029]<PREI>Error creating %1s directory|
+[0030]<PREC>Błąd podczas tworzenia profilu|
+[0038]<NAH_>Człowiek|
+[0040]<DIFF>Poziom trudności|
+[0092]<RNDE>Losowe wydarzenia|
+[0118]<RFU0>The host refuses you|
+[0119]<RFU1>Nie można dołączyć do nowej sesji|
+[0120]<RFU2>Nie można dołączyć do wczytywanej sesji|
+[0121]<RFU3>You cannot join the game because the save game is different from the host|
+[0122]<RFU4>You cannot join the game because the host does not accept your game version|
+[0123]<RFU5>You cannot join the game because the session is full|
+[0148]<SV_G>Zapisz Grę|
+[0149]<0SAV>Nie zapisałeś jeszcze żadnych gier|
+[0150]<SAVE>Zapisz|
+[0152]<LOAD>Wczytaj|
+[0154]<EMGS>Empty Game Slot|
+[0155]<PAGE>strona %1d/%2d|
+[0156]<-DSL>Cannot delete this slot|
+[0158]<GDAT>Data rozgrywki: |
+[0159]<FDAT>Data pliku: |
+[0160]<FNAM>Nazwa pliku: |
+[0161]<AOVW>To spowoduje zastąpienie istniejącego zapisu gry. Kontynuować ?|
+[0162]<SE-L>Nie można wczytać edytora scenariuszów|
+[0163]<ADLS>Ten zapis gry zostanie usunięty. Kontynuować ?|
+[0164]<DESV>Opis zapisanej gry:|
+[0165]<OUTD>Niewystarczająca ilość miejsca na dysku ! Gra nie może być zapisana.|
+[0166]<LE_O>Gra nie może być wczytana|
+[0167]<LE_H>Cannot read file header|
+[0168]<LE_P>Gra nie może być wczytana. Została zapisana w innej wersji Capitalismu.|
+[0169]<LE_G>Błąd wczytywania|
+[0170]<SE_C>Błąd podczas tworzenia zapisu gry.|
+[0171]<SE_H>Błąd podczas tworzenia nagłówka zapisu gry.|
+[0172]<SE_G>Błąd podczas wczytywania danych rozgrywki.|
+[0174]<LOB?>Nie można dołączyć do poczekalni|
+[0175]<LOBC>Cannot get connection string from lobby|
+[0186]<STAY>Do you want to continue to stay in the game?|
+[0188]<RSTT>Ponów grę|
+[0189]<RETI>Pójdź na emeryturę|
+[0190]<RETR>Zrezygnuj|
+[0196]<ASRS>Czy na pewno chcesz wznowić rozgrywkę?|
+[0241]<CHEA>Tryb Oszustw Aktywowany.|
+[0257]<SVSU>Gra Zapisana Pomyślnie|
+[0258]<WAIT>Waiting for %1s %2s|
+[0274]<GOAW>Wygrasz rozgrywkę jeśli będziesz posiadał:|
+[0286]<IPXL>Dołącz do lokalnej rozgrywki|
+[0287]<TCPL>Dołącz do gry lokalnej lub internetowej|
+[0288]<MODL>Połącz się z innym graczem za pomocą Modemu|
+[0289]<COML>Połącz się z innym graczem za pomocą przewodu sieciowego|
+[0298]<PRFL>Uwaga: Spowoduje tu usunięcie wszystkich informacji o Twoim koncie w rozgrywkach wieloosobowych.|
+[0299]<#rL0>%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|
+[0300]<#?L0>#r - ranking graczy|
+[0301]<#?L1>#? - pomoc|
+[0322]<ENVI>ŚRODOWISKO|
+[0323]<CMPT>PRZECIWNICY|
+[0324]<IMPT>PRODUKTY|
+[0325]<GOAL>CELE|
+[0326]<CITY>Ilość miast|
+[0327]<SCAP>Twój kapitał początkowy|
+[0329]<ALLS>Giełda papierów wartościowych|
+[0341]<NCOM>Ilość przeciwników|
+[0342]<CCAP>Kapitał początkowy przeciwników|
+[0343]<CAGG>Agresywność przeciwników|
+[0344]<COML>Poziom wiedzy przeciwników|
+[0346]<CSEC>Widoczne tajemnice handlowe przeciwników|
+[0347]<CCOM>Kompetencja lokalnych konkurentów|
+[0348]<CSEA>Ilość Detalicznych Portów handlowych |
+[0349]<ISEA>Ilość Przemysłowych Portów handlowych|
+[0351]<ISUP>Constant Import Supply|
+[0352]<IQUA>Jakość produktów importowanych|
+[0460]<CCTI>Realizm Makro Ekonomii|
+[0462]<DSMI>Rodzaje sklepów detalicznych|
+[0463]<DSM1>Wiele|
+[0464]<DSM2>Jeden|
+[0467]<GSYI>Rok startowy|
+[0504]<AIG1>Grand strategy failed, cannot find location to build.|
+[0505]<GP41>Czy NA PEWNO chcesz zadeklarować Bankructwo ?|
+[0506]<GP42>Tak|
+[0507]<GP43>Nie|
+[0508]<IGM1>Czy na pewno chcesz iść na emeryturę?|
+[0509]<IGM2>Tak|
+[0510]<IGM3>Nie|
+[0511]<IGM4>Czy na pewno chcesz wyjść do Głównego Menu?|
+[0512]<IGM5>Tak|
+[0513]<IGM6>Nie|
+[0514]<IGM7>Czy na pewno chcesz wyjść do Windowsa?|
+[0515]<IGM8>Tak|
+[0516]<IGM9>Nie|
+[0517]<PR31>Tak|
+[0518]<PR32>Nie|
+[0519]<PLB1>Ten plan zastąpi istniejący układ tego budynku. Kontynuować?|
+[0520]<PLB2>Czy potwierdzasz usunięcie tego planu ?|
+[0521]<PLB3>Czy na pewno chcesz zastąpić istniejący układ wybranym planem ?|
+[0522]<STK1>Brak wymaganych funduszy.|
+[0531]<SYF1>Niepowodzenie Wczytywania Gry|
+[0536]<CHE1>Nieprawidłowa Firma|
+[0537]<CHE2>Firm can not be taken by player!!|
+[0539]<FAP2>Null|
+[0540]<FAP3>Potwierdź|
+[0541]<FAP4>Anuluj|
+[0543]<FAP6>Brak wymaganych funduszy.|
+[0546]<AII1>Game Design Mode Warning|
+[0547]<AII2>Grand strategy plan|
+[0548]<AII3> building farm input failed.|
+[0549]<AII4> building factory input failed.|
+[0551]<FHQ1>Pozyskaj technologię z innej firmy|
+[0552]<FHQ2>Pozyskanie nowej technologii nie możliwe. Zadna z firm nie posiada lepszej technologii niż nasza.|
+[0553]<FIN1>Zmień strategię marki|
+[0554]<FIN2>Po zmianie strategii marki wszystkie produkty zostaną oznaczone nową marką co będzie skutkować tym, iż ich ocena marki będzie wynosić zero. Kontynuować?|
+[0555]<FIN3>Employment Termination|
+[0556]<FIN4>Employment rejected|
+[0557]<FIN5>Zatrudnienie|
+[0558]<FIN6>Polityka Zatrudniania|
+[0559]<FIN7>Zakup akcji nie możliwy|
+[0560]<FIN8>Wyemituj nowe akcje|
+[0561]<FIN9>OK|
+[0562]<FMN1>Zniszcz posiadłość
+[0564]<FM21>Change Group Manager|
+[0567]<GAM1>Cel|
+[0568]<GME1>Utrata prawa własności|
+[0569]<GP21>Wiadomości Giełdowe|
+[0570]<JMF1>Ulepsz Technologię Produkcji|
+[0571]<JMF2>Tak|
+[0572]<JMF3>Nie|
+[0573]<NGO1>Zakup nieruchomości niemożliwy|
+[0574]<NGO2>Zakup firmy niemożliwy|
+[0575]<NGO3>Zakup technologii niemożliwy|
+[0576]<PR31>Prośba o podwyżkę|
+[0577]<PLB1>Plan techniczny|
+[0578]<PLB2>Wybrana nieruchomość nie posiada planu.|
+[0579]<PLB3>Typ nieruchomości wybranego planu jest inny niż w wybranej nieruchomości. |
+[0580]<SK21>Wiadomośći giełdowe|
+[0581]<SK51>Oferta Przetargowa|
+[0582]<SYD1>Uauktywnij oszustwa|
+[0583]<SYF1>Zapisz Grę|
+[0584]<AIG0>Urozmaicona|
+[0585]<AIG1>Ukierunkowana na sprzedaży|
+[0586]<AIG2>Ukierunkowana na giełdzie|
+[0587]<AIG3>Ukierunkowana na nieruchomościach|
+[0588]<AIS0>Urozmaicona|
+[0589]<AIS1>Handel|
+[0590]<AIS2>Giełda|
+[0591]<AIS3>Nieruchomości|
+[0592]<CET1>Miesiąc siewu|
+[0593]<CET2>Miesiąc zbiorów|
+[0606]<DIJ1>Dostawca|
+[0607]<DIJ2>Miasto|
+[0608]<DIJ3>Odległość|
+[0609]<DIJ4>Cena|
+[0610]<DIJ5>Koszt Transportu|
+[0611]<DIJ6>Podaż|
+[0612]<DIJ7>Popyt|
+[0613]<DIJ8>Porty Handlowe|
+[0614]<DIJ9>Jakość|
+[0615]<DI10>Marka|
+[0616]<DI11>ŁĄCZNIE|
+[0617]<DI12>WYBIERZ DOSTAWCĘ|
+[0619]<DI14>Wybierz lokalizację dla budynku|
+[0620]<DI15>Anuluj|
+[0621]<DI16>Ok|
+[0622]<DI17>LISTA KLIENTÓW|
+[0624]<DI19>WYBIERZ REKLAMODAWCĘ|
+[0625]<DI20>Przejdź do mediów|
+[0626]<DI21>Wszystkie produkty|
+[0627]<DI22>Wszystkie miasta|
+[0628]<DI23>Wszyscy dostawcy|
+[0629]<DI24>Klient|
+[0630]<DI25>Media|
+[0631]<DI26>Ocena|
+[0632]<DI27>Miesięczny koszt reklamy|
+[0633]<ECO0>Handel detaliczny|
+[0634]<ECO1>Wytwarzanie|
+[0635]<ECO2>Rolnictwo|
+[0637]<FAT1>Small|
+[0638]<FAT2>Medium|
+[0639]<FAT3>Large|
+[0640]<FAT4>Zniszcz budynek i sprzedaj grunty|
+[0641]<FAT5>Wystaw nieruchomość na sprzedaż na:|
+[0642]<FAT6>Właściciel|
+[0643]<FAT7>Roczny koszt wynajmu za metr kwadratowy|
+[0644]<FAT8>Obłożenie|
+[0645]<FAT9>Kupiłeś tę nieruchomość |
+[0646]<FA10>Koszt gruntów i nieruchomości|
+[0647]<FA11>Wartość Rynkowa|
+[0648]<FA12>Wykres zysku|
+[0649]<FA13>Ostatnie 12 miesięcy|
+[0650]<FA14>Wykres obłożenia|
+[0651]<FA15>Wystaw nieruchomość na sprzedaż|
+[0652]<FA16>Kup nieruchomość|
+[0653]<FA17>Złóż ofertę|
+[0655]<FA19>Zniszcz budynek i sprzedaj ziemię |
+[0656]<FA20>Wystaw nieruchomość na sprzedaż na:|
+[0658]<FA22>Ten budynek jest na sprzedaż za:|
+[0661]<FR00>Przychód ze sprzedaży|
+[0662]<FR01>Koszt surowca|
+[0663]<FR02>Koszt transportu|
+[0664]<FR03>Wynagrodzenie|
+[0665]<FR04>Koszty ogólne fabryki|
+[0666]<FR05>Koszt reklamy i PR|
+[0667]<FR06>Szkolenie|
+[0668]<FR07>Write-offs(odsetki?)|
+[0669]<FR10>Wynagrodzenie|
+[0670]<FR11>Koszty operacyjne|
+[0671]<FR12>Szkolenie|
+[0672]<FR13>Write-offs(odsetki?|
+[0673]<FR20>Przychód ze sprzedaży|
+[0674]<FR21>Wynagrodzenie|
+[0675]<FR22>Koszty operacyjne|
+[0676]<FR23>Koszt reklamy i PR|
+[0677]<FR24>Szkolenie|
+[0678]<FR25>Write-offs(odsetki?|
+[0679]<FR30>Przychód ze sprzedaży|
+[0680]<FR31>Wynagrodzenie|
+[0681]<FR32>Koszty operacyjne|
+[0682]<FR33>Koszt reklamy i PR|
+[0683]<FR34>Szkolenie|
+publ.|
+[0685]<FR40>Przychód ze sprzedaży|
+[0686]<FR41>Zużycie zapasów|
+[0687]<FR42>Wynagrodzenie|
+[0688]<FR43>Koszty operacyjne|
+[0689]<FR44>Koszt reklamy i PR|
+[0690]<FR45>Szkolenie|
+publ.|
+[0703]<FBK2>Pożyczka całkowita|
+[0704]<FBK3>Miesięczne odsetki|
+[0705]<FBK4>Limit kredytowy|
+[0706]<FBK5>Oprocentowanie|
+[0707]<FBK6>Pożycz|
+[0708]<FBK7>Spłać|
+[0715]<FET1>Rodzaje budynków|
+[0716]<FET2>Wybierz|
+[0717]<FET3>Koszt:|
+[0718]<FET4>Miesięcznie:|
+[0719]<FET5>Proszę wybrać lokalizację|
+[0721]<FET7>Koszt gruntu: |
+[0722]<FET8>Teren zajęty przez budynki mieszkalne|
+[0723]<FET9>budynek. Możesz je wykupić za: |
+[0724]<FE10>Wciśnij LPM aby zbudować|
+[0725]<FE11>Surowce Naturalne|
+[0726]<FE12>Zapas|
+[0727]<FE13>Jakość|
+[0728]<FE14>Koszt gruntu|
+[0729]<FE15>Nie można tu postawić:|
+[0730]<FE16>Obszar nie jest wystarzcająco zalesiony.|
+[0731]<FE17>Na obszarze nie znajdują się żadne surowce mineralne.|
+[0732]<FE18>Na obszarze nie ma żadnych złóż.|
+[0733]<FE19>Obszar niedostępny.|
+[0734]<FE20>Lokalizacja nie znajduje się przy drodze|
+[0736]<FE22>Budowa niemożliwa:|
+[0737]<FE23>Brak odpowiednich funduszy.|
+[0740]<FAT1>Połącz przedmiot|
+[0741]<FAT2>Może być sprzedawany w:|
+[0742]<FAT3>Nie może być sprzedawany w:|
+[0743]<FAT4>sklepy detaliczne.|
+[0744]<FAT5>Naciśnij dwukrotnie LPM aby otworzyć raport szczegółowy.|
+[0745]<FAT6>Zysk|
+[0746]<FAT7>Przychód|
+[0747]<FAT8>Ilość|
+[0748]<FAT9>Udział w rynku|
+[0749]<FA10>Cena|
+[0750]<FA11>Koszt|
+[0751]<FA12>Zmowa cenowa|
+[0752]<FA13>Nowa cena|
+[0753]<FA14>Marka|
+[0754]<FA15>Jakość|
+[0755]<FA16>Cena|
+[0756]<FA17>Łączna ocena|
+[0758]<FA19>Zysk Firmy|
+[0759]<FA20>Dochody Firmy|
+[0761]<FA22>sklepy detaliczne.|
+[0763]<FHQ1>Dział Finansowy|
+[0764]<FHQ2>Dział Kadr|
+[0765]<FHQ3>Dział PR|
+[0766]<FHQ4>Dział Relacji Inwestorskich|
+[0767]<FHQ5>Biuro Prezesa|
+[0768]<FHQ6>Biuro Dyrektora Operacyjnego|
+[0769]<FHQ7>Biuro Dyrektora Marketingu|
+[0770]<FHQ8>Biuro Dyrektora Technologii|
+[0771]<FHQ9>Zdąbądź wiedzę technologiczną od innych firm|
+[0772]<FH10>Ustal nową dywidendę|
+[0773]<FH11>DZIAŁ FINANSÓW|
+[0774]<FH12>Obecny Wskaźnik Wypłaty Dywidendy:|
+[0775]<FH13>Nowy Wskaźnik Wypłaty Dywidendy:|
+[0776]<FH14>Zorganizuj indentywny kurs szkoleniowy|
+[0777]<FH15>DZIAŁ KADR|
+[0778]<FH16>Łączna liczba pracowników produkcyjnych
+[0779]<FH17>Łączna liczba pracowników produkcyjnych
+[0780]<0000>Średni poziom wyszkolenia|
+[0781]<0001>Średni poziom wyszkolenia w firmie|
+[0782]<0002>Dni od ostatniego intensywnego szkolenia|
+[0785]<0005>Łączny koszt|
+[0786]<0006>Szkolenie zostało przeprowadzone|
+[0788]<0008> Pracownicy|
+[0789]<0009> Praocownik|
+[0790]<0010>łącznie z|
+[0791]<0011>zdobyło nowe kwalifikacje|
+[0792]<0012>zdobył nowe kwalifikacje|
+[0793]<0013>oraz poprawiło wydajność.|
+[0794]<0014>oraz poprawił wydajność.|
+[0795]<0015>DZIAŁ PR|
+[0796]<0016>Miesięczne wydatki na PR w aktywnym mieście|
+[0798]<0018>Jeśli Twoja firma używa strategii Brandingu korporacyjnego,|
+[0799]<0019>jej marka odniesie korzyści z wydatków na PR.|
+[0801]<0021>Branding korporacyjny|
+[0802]<0022>Świadomość marki|
+[0803]<0023>Przywiązanie do marki|
+[0804]<0024>Marka Rodzinna|
+[0805]<0025>Marka Indywidualna|
+[0806]<0026>DZIAŁ RELACJI INWESTORSKICH|
+[0807]<0027>Miesięczne wydatki na poprawę relacji z inwestorami|
+[0809]<0029>corporation's stock performance.|
+[0810]<0030>Szczegółowo|
+[0811]<0031>Biuro Prezesa (CEO)|
+[0812]<0032>Prezes (CEO)|
+[0813]<0033>Lata pracy|
+[0814]<0034>Sprzedaż detaliczna|
+[0815]<0035>Dział Badań i Rozwoju|
+[0816]<0036>Produkcja surowców|
+[0817]<0037>Marketing|
+[0818]<0038>Szkolenie|
+[0819]<0039>Szukaj kandydatów|
+[0820]<0040>BIURO DYREKTORA OPERACYJNEGO (COO)|
+[0821]<0041>Dyrektor Operacyjny (COO)|
+[0822]<0042>Ekspertyza|
+[0823]<0043>Wartość|
+[0824]<0044>WAKAT|
+[0825]<0045>BIURO DYREKTORA MARKETINGU|
+[0826]<0046>Dyrektor Marketingu|
+[0828]<0048>Zdąbądź wiedzę technologiczną od innych firm|
+[0829]<0049>BIURO DYREKTORA TECHNOLOGII|
+[0830]<0050>Cena akcji|
+[0832]<0052>Dochód z dywidendy|
+[0837]<0057>Oferta|
+[1519]<0584>Korporacja|
+[0848]<0063>Produkt|
+[0849]<0064>Firma|
+[0850]<0065>Raport Finansowy|
+[0855]<0070>Poradnik|
+[0856]<0071>Producenta|
+[0857]<0072>Poradnik Rolnika|
+[0858]<0073>Poradnik Menadżera|
+[0860]<0075>GPW|
+[0861]<0076>Przychody |
+[0862]<0077>Liczba sprzedanych sztuk |
+[0863]<0078>Poprzedni|
+[0864]<0079>Następny|
+[0865]<0080>Idź|
+[0866]<0081>Kategoria: |
+[0867]<0082>Wskaźnik niezbędności:|
+[0868]<0083>City Total|
+[0869]<0084>Jeden Produkt|
+[0870]<0085>Udział w Rynku |
+[0871]<0086>Produkcja|
+[0872]<0087>Sprzedaż|
+[0873]<0088>Producent |
+[0874]<0089>Sprzedawca|
+[0875]<0090>Jakość Produktu|
+[0876]<0091>Jakość Produkcji|
+[0877]<0092>Jakość Surowca|
+[0879]<A300>Dochód z dywidendy|
+[0880]<A301>Marka Rodzinna|
+[0881]<A302>Marka Indywidualna|
+[0882]<0094>Strategia Marki|
+[0883]<0095>Wartość Marki|
+[0884]<0096>Świadomość Marki|
+[0885]<0097>Przywiązanie do Marki|
+[0886]<0098>Wydatki na reklamę|
+[0887]<0099> per|
+[0891]<0103>Nowa Cena|
+[0892]<0104>Wszystkie firmy|
+[0893]<0105>Wszystkie miasta|
+[0894]<0106>(Tech. nieznana przez Ciebie)|
+[0896]<0108>Producent Zamorski|
+[0897]<0109>No Longer in Business|
+[0898]<A400>Przegląd Finansów|
+[0899]<A401>Przegląd Akcji|
+[0900]<A402>Relacje Biznezowe|
+[0901]<A403>Podsumowanie Firmy|
+[0902]<0110>Kup|
+[0903]<0111>Przegląd|
+[0904]<0112>Firmy|
+[0905]<0113>Produkty|
+[0906]<0114>Wykres 1|
+[0907]<0115>Wykres 2|
+[0908]<0116>Akcja|
+[0909]<0117>Bilans|
+[0910]<0118>Zyski i Straty|
+[0911]<0119>Technologia|
+[0912]<0120>Reklama|
+[0913]<0121>Marka|
+[0914]<0122>Dominacja|
+[0915]<0123>Rankingi|
+[0916]<0124>Wszystko|
+[0917]<0125>Delegate|
+[0918]<0126>Miasto|
+[0919]<0127>Lata działalności|
+[0920]<0128>Dochód Długotrwały|
+[0921]<0129>Zysk Długotrwały|
+[0922]<0130>Liczba pracowników|
+[0923]<0131>Liczba jednostek|
+[0925]<0133>Wykorzystanie|
+[0926]<0134>Jednostki|
+[0928]<0136>Zysk Długotrwały|
+[0929]<0137>Mies. wydatki na reklamę| 
+[0930]<0138>Dziennie reklam|
+[0931]<0139>Wartość GRP|
+[0932]<0140>Posortuj po nazwie|
+[0933]<0141>Posortuj po nazwie miasta|
+[0934]<0142>Branding Korporacyjny|
+[0935]<0143>Marka Rodzinna|
+[0936]<0144>Marka Indywidualna|
+[0937]<0145>Marka obejmuje wszystkie produkty|
+[0938]<0146>Marka obejmuje całą rodzinę produktów|
+[0939]<0147>Każdy produkt ma własną markę|
+[0940]<0148>Przemysł|
+[0941]<0149>Lider Rynku|
+[0942]<0150>Udział w Rynku|
+[0943]<0151>Pozycja|
+[0944]<0152>Kategoria|
+[0945]<0153>Nazwa Produktu|
+[0949]<0157>Z udziałem w rynku|
+[0950]<0158>Tylko Zdominowane|
+[0951]<0159>Opis|
+[0952]<0160>Wartość|
+[0953]<0161>Pozycja|
+[0954]<0162>Lider|
+[1007]<0164>Opis|
+[1013]<0170>Zysk Operacyjny|
+[1015]<0172>Zysk Netto|
+[1016]<0173>Udziałowcy|
+[1017]<0174>Diagram|
+[1018]<0175>Łącznie|
+[1021]<0178>Zarząd|
+[1022]<0179>Strategia:|
+[1024]<0181>Prezes i Właściciel|
+[1025]<0182>Prezes|
+[1027]<0184>Dyrektor Technologii|
+[1028]<0185>Przegląd Finansów|
+[1029]<0186>Przegląd Akcji|
+[1031]<0188>Korporacja prywatna|
+[1032]<0189>Przegląd Firmy|
+[1033]<0190>Dochód Roczny|
+[1034]<0191>Roczny dochód brutto|
+[1035]<0192>Produkcja & Sprzedaż|
+[1036]<0193>Produkcja|
+[1037]<0194>Sprzedaż|
+[1039]<0196>Dochód|
+[1040]<0197>Zysk Operacyjny|
+[1041]<0198>Zysk Netto|
+[1042]<0199>Wartość Netto|
+[1043]<0200>Cena Akcji|
+[1044]<0201>Ostatnie 30 lat|
+[1046]<0203>Gotówka|
+[1047]<0204>Inwentarz|
+[1048]<0205>Aktywa Biznesowe|
+[1049]<0206>Grunty & Surowce|
+[1050]<0207>Aktywa Giełdowe|
+[1051]<0208>Łączne kredyty|
+[1052]<0209>Dywidenda wypłacona|
+[1053]<0210>Stock Return|
+[1054]<0211>Wynagrodzenie|
+[1055]<0212>Reklamy|
+[1056]<0213>Szkolenie|
+[1057]<0214>Write-offs|
+[1058]<0215>Udziałowiec             Ilość Akcji    Udziały%   Wartość Akcji   Pozycja|
+[1061]<0218>Confidential|
+[1062]<0219>Obecna Tech.|
+[1063]<0220>Naj. Tech.
+[1064]<0221>Docel. Tech.|
+[1065]<0222>Postęp|
+[1067]<0224>Handel YTD|
+[1068]<0225>Handel Długoterminowy|
+[1069]<0226>Dochód Roczny|
+[1070]<0227>Roczny Zysk Operacyjny|
+[1071]<0228>Roczny Zysk Netto|
+[1072]<0229>Aktywa łącznie|
+[1073]<0230>Łączne kredyty|
+[1074]<0231>Aktywa akcyjne|
+[1075]<0231>Lata działalności|
+[1076]<0232>Liczba pracowników|
+[1077]<0233>Liczba Rodzin Produktów|
+[1078]<0234>Liczba Typów Produktów|
+[1079]<0235>Stopa zwrotu|
+[1080]<0236>Całkowity zwrot z aktywów|
+[1081]<0237>Dochód z Dywidendy|
+[1082]<0238>Stock Return to Investors|
+[1083]<0239>Marża zysku operacyjnego|
+[1084]<0240>Marża zysku netto|
+[1085]<0241>Rotacja zapasów|
+[1086]<0242>Rotacja aktywów|
+[1087]<0243>Wskaźnik udziału kapitałów własnych|
+[1088]<0244>Wynajdywanie nowego produktu|
+[1089]<0245>lat|
+[1090]<0246>rok|
+[1091]<0247>jedn.|
+[1092]<0248>jednostka|
+[1093]<0249>Publiczni Udziałowcy|
+[1094]<0250>łącznie|
+[1095]<0251>Zysk Roczny|
+[1096]<0252>Cena Akcji|
+[1099]<0255>Wskaźnik P/E|
+[1100]<0256>Dochód z Dywidendy|
+[1102]<0257>Zwrot Roczny|
+[1104]<0259>Fuzja|
+[1105]<0260>Kupno|
+[1106]<0261>Sprzedaż|
+[1107]<0262>Cena    P/E    Udział %  Wartość Akcji|
+[1108]<0263>Cena Akcji|
+[1109]<0264>Łącznie akcji|
+[1110]<0265>Wartość księgowa na akcję|
+[1111]<0266>Zysk na akcje|
+[1112]<0267>Wskaźnik P/E|
+[1113]<0268>Wypłata Dywidendy|
+[1114]<0269>Zwrot Roczny|
+[1116]<0271>Ktos             Gotówka|
+[1117]<0272>Kup Akcje|
+[1118]<0273>Sprzedaj Akcje|
+[1119]<0274>Zaoferuj Cenę|
+[1122]<0277>Ranking 100 Miliarderów|
+[1123]<0278>Lokalni miliarderzy|
+[1124]<0279>Wyemituj nowe akcje|
+[1125]<0280>Zaciągnij/Spłać Pożyczkę|
+[1126]<0281>Publiczni akcjonariusze|
+[1127]<0282>Ostatnie 30 dni|
+[1128]<0283>z|
+[1129]<0284>WYEMITUJ|
+[1130]<0285>POŻYCZ|
+[1140]<0295>Spłać|
+[1132]<0287>Akcje|
+[1133]<0288>Nowe Akcje za|
+[1134]<0289> Za akcję.|
+[1135]<0290>Łączny kredyt|
+[1136]<0291>Miesięczne odsetki|
+[1137]<0292>Limit kredytowy|
+[1138]<0293>Oprocentowanie||
+[1139]<0294>Pożycz|
+[1140]<0295>Spłać|
+[1141]<0296>Oprocentowanie|
+[1142]<0296>Wielkość kredytu|
+[1143]<0297>WYEMITUJ|
+[1144]<0298>Właściciel:|
+[1145]<0299>Koszt zakupu|
+[1146]<0300>Koszt gruntu i budynku:|
+[1147]<0301>Wartość rynkowa|
+[1148]<0302>Wystaw tę nieruchomość na sprzedaż za:|
+[1149]<0303>Wystaw na sprzedaż|
+[1150]<0304>Zniszcz budynek i sprzedaj grunty|
+[1151]<0305>Ten budynek jest na sprzeadaż|
+[1152]<0306>Zakup tę posiadłość|
+[1154]<0308>Czy na pewno chcesz zburzyć ten budynek i sprzedać grunty? \n \nZa grunty otrzymasz: |
+[1155]<0309>Menadżer|
+[1156]<0310>Emisja TV|
+[1157]<0311>Emisja radiowa|
+[1158]<0312>Gazeta|
+[1163]<0317>sklepy detaliczne.|
+[1164]<0318>Podwójne kliknięcie otworzy szczegółowy raport produktu.|
+[1175]<0329>City Overall|
+[1181]<0335>Nowy produkt|
+[1182]<0336>Rozwój|
+[1185]<0339>Technologia docelowa:|
+[1186]<0340>Czas trwania:|
+[1187]<0341>Postęp|
+[1188]<0342>BRAK|
+[1189]<0343>Brak miejsca na nowy produkt|
+[1190]<0344>Ten przedmiot może być sprzedawany w ...|
+[1194]<A700>Mrożony|
+[1195]<A701>Przeziębienie|
+[1196]<A702>Zimno|
+[1197]<A703>Ciepło|
+[1198]<A704>Gorąco|
+[1199]<A800>Sucho|
+[1200]<A801>Mało|
+[1201]<A802>Średnio|
+[1202]<A803>Obficie|
+[1203]<0348>Ciepło, chłodno lub zimno|
+[1235]<0349>Liczba pracowników|
+[1236]<0350>Liczba jednostek|
+[1237]<0351>Śr. poziom jednostki|
+[1238]<0352>Śr. wykorzystanie|
+[1239]<0353>Kto dowodzi firmą?|
+[1240]<0354>Prezes|
+[1241]<0355>President|
+[1242]<0356>Do you want to manage all of your firms yourself?|
+[1243]<0357>Do you want President |
+[1244]<0358> to manage all of your firms|
+[1245]<0359>Biblioteka planu budynku - |
+[1247]<0361>Opis|
+[1249]<0363>Wytwór|
+[1250]<0364>Wsad|
+[1251]<0365>Available|
+[1253]<0367>Dyrektor operacyjny|
+[1255]<0369>Obecny zarządzający firmą|
+[1256]<0370>Obecny zarządzający firmą|
+[1263]<0377>Wartość rynkowa:|
+[1264]<0378>Ten budynek jest na sprzedaż|
+[1265]<0379>NA SPRZEDAŻ|
+[1267]<0381>Funkcja: Emisja akcji|
+[1268]<0382>Funkcja: Zaciąganie pożyczek|
+[1269]<0383>Funkcja: Obrót akcjami|
+[1270]<0384>Funkcja: Reklamowanie produktów|
+[1271]<0385>Funkcja: Dostarczanie informacji|
+[1272]<0386>Wartość GRP|
+[1273]<0387>Wartość GRP za ostatnie 36 mies.|
+[1274]<0388>Content Volume|
+[1275]<0389>Content Quality|
+[1278]<0392>Wartość GRP|
+[1281]<0395>Monthly budget for new content development|
+[1287]<0401>Next Month Advertising Pricing|
+[1289]<0403>Current Advertising Pricing|
+[1292]<0406>Buy Firm|
+[1298]<AA00>Wszystko|
+[1299]<AA01>Sprzedaż lokalna|
+[1300]<AA02>Sprzedaż detaliczna|
+[1301]<AB00>Wszystkie wyroby|
+[1302]<AB01>Konsumpcyjne|
+[1303]<AB02>Produkcyjne|
+[1304]<AC00>Przychód ze sprzedaży|
+[1305]<AC01>Koszt surowca|
+[1306]<AC02>Koszt transportu|
+[1307]<AC03>Wynagrodzenie|
+[1308]<AC04>Koszty ogólne fabryki|
+[1309]<AC05>Koszt reklamy i PR|
+[1310]<AC06>Szkolenie|
+[1311]<AC07>Write-offs|
+[1312]<AD00>Wynagrodzenie|
+[1313]<AD01>Koszty operacyjne|
+[1314]<AD02>Szkolenie|
+[1315]<AD03>Write-offs|
+[1316]<AE00>Przychód ze sprzedaży|
+[1317]<AE01>Koszt zakupu|
+[1318]<AE02>Koszt transportu|
+[1319]<AE03>Wynagrodzenie|
+[1320]<AE04>Koszty operacyjne|
+[1321]<AE05>Koszt reklamy i PR|
+[1322]<AE06>Szkolenie|
+[1323]<AE07>Write-offs|
+[1324]<AF00>Przychód ze sprzedaży|
+[1325]<AF01>Wynagrodzenie|
+[1326]<AF02>Koszty operacyjne|
+[1327]<AF03>Koszt reklamy i PR|
+[1328]<AF04>Szkolenie|
+[1329]<AF05>Write-offs|
+[1330]<AG00>Przychód ze sprzedaży|
+[1331]<AG01>Zużycie zapasów|
+[1332]<AG02>Wynagrodzenie|
+[1333]<AG03>Koszty operacyjne|
+[1334]<AG04>Koszt reklamy i PR|
+[1335]<AG05>Szkolenie|
+[1336]<AG06>Write-offs|
+[1347]<0412>Podsumowanie|
+[1348]<0413>Majątek|
+[1349]<0414>Kariera|
+[1350]<0415>Osobowość|
+[1351]<0416>Kompetencje|
+[1352]<0417>Wynik|
+[1353]<0418>Bilans |
+[1354]<0419>Rachunek zysków i strat|
+[1355]<0420>Rachunek zysków i strat|
+[1358]<0423>Minęło lat|
+[1360]<0425>CEL|
+[1361]<0426>OBECNIE|
+[1362]<0427>OSIĄGNIĘTO|
+[1363]<0428>SCORE REPORT|
+[1364]<0429>Majątek osobisty|
+[1365]<0430>Wartość kontrolowanych przez Ciebie firm|
+[1366]<0431>Zdominowane branże|
+[1367]<0432>Zdominowane produkty|
+[1370]<0435> Punkty|
+[1372]<0437> x 20|
+[1373]<0438> x 5|
+[1374]<0439>Wynik końcowy: -1 (Aktywowany tryb oszustw.)|
+[1375]<0440>Wynik końcowy:|
+[1376]<0441> x |
+[1377]<0442> (Poz. trudności)|
+[1379]<0444> (Premia za wyk. celu) =|
+[1380]<0445> x 2 (Premia za wyk. celu) =|
+[1381]<0446> =|
+[1382]<0447> (Lat)|
+[1383]<0448> x 2 (Premie za wyk. celu)|
+[1384]<0449>WSAD|
+[1385]<0450>WYTWÓR|
+[1386]<0451>WIĘCEJ|
+[1387]<0452> milion|
+[1389]<0454>Rating (0-100)|
+[1390]<0455>Rolnictwo|
+[1391]<0456>Przetwarzanie|
+[1392]<0457>Badania i rozwój|
+[1393]<0458>Wytwarzanie surowców|
+[1394]<0459>Marketing|
+[1395]<0460>Szkolenie|
+[1396]<0461>Kariera|
+[1397]<0462>Korporacja|
+[1398]<0463>Stanowisko|
+[1399]<0464>Lata służby|
+[1400]<0465>Na emeryturze|
+[1401]<0466>Iwestor niezależny|
+[1402]<0467>Nastawienie wobec Ciebie|
+[1403]<0468>Roczne pensje|
+[1404]<0469>Terminate Employment|
+[1405]<0470>Zatrudnij Dyrektora Operacyjnego (COO)|
+[1406]<0471>Zatrudnij Dyrektora Marketingu|
+[1407]<0472>Zatrudnij Dyrektora Technicznego|
+[1408]<0473>POLITYKA ZARZĄDZANIA|
+[1409]<0474>Polityka cenowa|
+[1411]<0476>Agresywna|
+[1412]<0477>Bardzo agresywna|
+[1419]<0484>The severance for terminating the employment of \n|
+[1424]<0489>, is \n|
+[1425]<0490> (monthly salary)|
+[1426]<0491> (tygodniowe wynagrodzenie) x|
+[1427]<0492> (lata pracy)|
+[1428]<0493>Czy chcesz kontynuować ?|
+[1445]<0510>Twoja oferta|
+[1448]<0513>She|
+[1449]<0514>He|
+[1450]<0515> rejected your offer.|
+[1451]<0516> żąda rocznego wynagrodzenia w wysokości|
+[1452]<0517>Akceptujesz?|
+[1474]<0539>Nazwa uprawy|
+[1475]<0540>Crop in Barn|
+[1476]<0541>Postęp wzrostu|
+[1477]<0542> jednostek|
+[1478]<0543> jednostka|
+[1479]<0544>Jakość: |
+[1480]<0545>Jakość jest zdeterminowana przez:|
+[1481]<0546>Tech. produkcji|
+[1482]<0547>Jakość Surowca|
+[1483]<0548>Wynalezione Tech.|
+[1484]<0549>Znane Ci technologie|
+[1485]<0550>Charakter:|
+[1487]<0552>Stopień (0-100)|
+[1488]<0553>Inwestycja w Badania i Rozwój|
+[1489]<0554>Inwestycja Szkolenie|
+[1490]<0555>Częstotliwość ulepszeń zakładów produkcyjnych|
+[1491]<0556>Wydatki na reklamę|
+[1492]<0557>Wypłacanie dywidendy|
+[1493]<0558>Inwestowanie w akcje|
+[1494]<0559>Przejmowanie i fuzja korporacji|
+[1495]<0560>Wzmacnianie udziałów we własnej firmie|
+[1496]<0561>Endure Loss for Avoiding Layoff|
+[1497]<0562>Zakup towarów z własnych zakładów|
+[1498]<0563>Majątek osobisty|
+[1499]<0564>Market Cap of Companies Controlled|
+[1500]<0565>Wynik:|
+[1501]<0566> miliard x 100|
+[1502]<0567>Score:|
+[1503]<0568> miliard x 10|
+[1504]<0569>Zdominowane branże|
+[1505]<0570>Zdominowane produkty|
+[1506]<0571>Wynik:|
+[1507]<0572> x 20 =|
+[1509]<0574> x 5 =|
+[1510]<0575>Wynik końcowy: -1 (Aktywowany tryb oszustw.)|
+[1511]<0576>Wynik końcowy:|
+[1512]<0577> (Poziom trudności)|
+[1513]<0578> (Premia za wyk. celu) =|
+[1515]<0580> (Lat)|
+[1517]<0582>Charakter  |
+[1518]<0583>Stanowisko  |
+[1519]<0584>Korporacja|
+[1520]<0585>Gotówka|
+[1521]<0586>Akcje|
+[1522]<0587>Majątek łączny|
+[1546]<0611>Majątek osobisty|
+[1547]<0612>Gotówka|
+[1548]<0613>Akcje|
+[1549]<0614>Rynek nieruchomości|
+[1550]<0615>   wartości|
+[1551]<0616>Łącznie|
+[1552]<0617>Posiadane akcje|
+[1553]<0618>Korporacja|
+[1554]<0619>Cena|
+[1555]<0620>Posiadanych|
+[1556]<0621>% Posiadanych|
+[1557]<0622>Wartość akcji|
+[1558]<0623>Pozycja|
+[1559]<0624>Łącznie|
+[1600]<0625>W tym roku budż.|
+[1601]<0626>W poprzednim roku|
+[1602]<0627>W tym roku budż.|
+[1603]<0628>W tym roku budż.|
+[1604]<0629>W poprzednim roku|
+[1605]<0630>Całkowity |
+[1606]<0631>Opis|
+[1607]<0632>Obecny miesiąc|
+[1608]<0633>Poprzedni miesiąc|
+[1615]<0640>Opis|
+[1616]<0641>Obecny miesiąc|
+[1617]<0642>Poprzedni miesiąc|
+[1619]<0644>PRZYCHODY OPERACYJNE|
+[1620]<0645>WYDATKI OPERACYJNE|
+[1621]<0646>ZYSK OPERACYJNY|
+[1622]<0647>Miesiąc siewu|
+[1623]<0648>Produkt|
+[1624]<0649>Miesiąc zbiorów|
+[1625]<0650>Produkty poch. zwierz.:|
+[1626]<0651> Unit|
+[1632]<AK00>Przychód operacyjny|
+[1633]<AK01>Koszt sprzedaży|
+[1634]<AK02>Wynagrodzenie|
+[1635]<AK03>Koszty operacyjne|
+[1636]<AK04>Koszt reklamy i PR|
+[1637]<AK05>Szkolenie|
+[1638]<AK06>Wydatki na R&D|
+[1639]<AK07>Dotacje do obiektów użyt.
+publ.|
+[1640]<AK08>Write-offs|
+[1641]<AK09>Zwroty z akcji|
+[1642]<AL00>6 mies.|
+[1643]<AL01>1 rok|
+[1644]<AL02>2 lata|
+[1645]<AL03>3 lata|
+[1646]<AL04>5 lat|
+[1647]<AL05>10 lat|
+[1648]<0652>Wykres ceny akcji|
+[1650]<0654>Dzień|
+[1651]<0655>Miesiąc|
+[1652]<0656>Mansion|
+[1653]<0657> rok|
+[1654]<0658> lat|
+[1656]<0660>Twój osobisty majątek|
+[1657]<0661>Wartość netto Twojej korporacji|
+[1658]<0662>Market Cap of Your Corporation|
+[1659]<0663>Roczne przychody Twojej korporacji|
+[1660]<0664>Roczny zysk operacyjny Twojej firmy|
+[1661]<0665>Wartość netto firm pod Twoją kontrolą|
+[1662]<0666>Market Cap of Companies Under Your Control|
+[1663]<0667>Roczne przychody firm pod Twoją kontrolą|
+[1665]<0669>No. of Companies Under Your Control|
+[1665]<0669>Liczba firm pod Twoją kontrolą| [1666]<0670>Łączna liczba pracowników Twojej korporacji|
+[1667]<0671>Marża operacyjne Twojej korporacji|
+[1668]<0672>Wskaźnik rentowności kapitału własnego (ROE) Twojej korporacji|
+[1669]<0673>Cena akcji Twojej korporacji|
+[1670]<0674>Udziały własne w Twojej korporacji|
+[1671]<0675>No. of Product Classes Produced by Your Corporation|
+[1672]<0676>No. of Product Types Produced by Your Corporation|
+[1673]<0677>Dominacja rynkowa |
+[1674]<0678> Sektora|
+[1675]<0679>Dominacja rynkowa |
+[1676]<0680> Industry|
+[1678]<0681>Wynik: |
+[1679]<0682>Majątek: |
+[1680]<0683> miliard|
+[1681]<0684> milion|
+[1682]<0685>Okres: |
+[1712]<0715>Pozostało Ci |
+[1715]<0718> do osiągnięcia głównego celu. Pośpiesz się!|
+[1721]<0724>Corporation Name|
+[1722]<0725>Your Name|
+[1787]<0790>You corporation has been taken over by |
+[1788]<0791>You have lost the ownership of your corporation !|
+[1789]<0792>Rząd|
+[1790]<0793>Tworzenie nowej rozgrywki . . . . .|
+[1791]<0794>FINAL SCORE UPON RETIREMENT|
+[1792]<0795>FINAL SCORE UPON TAKEOVER|
+[1797]<0800>Wynik:|
+[1807]<0811>Wartości 1|
+[1808]<0812>Wartości 2|
+[1809]<0813>Industries|
+[1810]<0814>Produkty|
+[1811]<0815>BARWY PRZEDSIĘBIORSTWA|
+[1812]<0816>LOGO PRZEDSIĘBIORSTWA|
+[1813]<0817>TWÓJ PORTRET|
+[1817]<0821>NOWA ROZGRYWKA|
+[1818]<0822>Start|
+[1819]<0823>Powrót|
+[1820]<0824>Goal Values|
+[1821]<0825>No. of lat|
+[1822]<0826>Goal Score Bonus|
+[1823]<0827>Majątek gracza ($milionów)|
+[1824]<0828>Goals of the Player's Own Corporation ($million)|
+[1825]<0829>Przychód roczny|
+[1826]<0830>Wartość netto|
+[1827]<0831>Roczny zysk operacyjny|
+[1828]<0832>Market Cap|
+[1829]<0833>Goals of Companies Controlled by the Player ($million)|
+[1830]<0834>Przychód roczny|
+[1831]<0835>Wartość netto|
+[1832]<0836>Roczny zysk operacyjny|
+[1833]<0837>Market Cap|
+[1834]<0838>No. of Controlled Companies|
+[1835]<0839>Goals of the Player's Own Corporation|
+[1836]<0840>Total No. pracowników|
+[1837]<0841>Marża zysku operacyjnego|
+[1838]<0842>Zwrot z kapitału|
+[1839]<0843>Cena akcji|
+[1840]<0844>Własność|
+[1841]<0845>No. of Product Classes Being Produced|
+[1842]<0846>No. of Product Types Being Produced|
+[1843]<0847>Docelowe branże - Cele dominacji branżowej|
+[1844]<0848>Wyłączone branże|
+[1845]<0849>Uwzględnione branże|
+[1846]<0850>Produkty docelowe - Cele dominacji rynkowej|
+[1847]<0851>Wyłączone produkty|
+[1848]<0852>Uwzględnione produkty|
+[1849]<0853>Dodaj|
+[1850]<0854>Dodaj wszystko|
+[1851]<0855>Usuń|
+[1852]<0856>Usuń wszystko|
+[1855]<0859> year)|
+[1856]<0860> lat)|
+[1857]<AL00>|
+[1858]<AL01> million|
+[1859]<AL02> billion|
+[1861]<AM00>Dział finansowy|
+[1862]<AM01>Dział personalny|
+[1863]<AM02>Dział PR|
+[1864]<AM03>Dział relacji z inwestorami|
+[1865]<AM04>Biuro prezesa (CEO)|
+[1866]<AM05>Biuro dyrektora ds. operacyjnych (COO)|
+[1867]<AM06>Biuro dyrektora ds. marketingu|
+[1868]<AM07>Biuro dyrektora ds. technicznych|
+[1869]<AM08>NONE|
+[1870]<AN00>OPCJE (O)|
+[1871]<AN01>ZAPISZ GRĘ (S)|
+[1872]<AN02>WCZYTAJ GRĘ (L)|
+[1873]<AN03>ZRESTARTUJ ROZGRYWKĘ|
+[1874]<AN04>ZREZYGNUJ|
+[1875]<AN05>USTAWIENIA ROZGRYWKI (F9)|
+[1876]<AN06>WYJDŹ DO MENU GŁÓWNEGO|
+[1877]<AN07>WYJDŹ DO WINDOWSA|
+[1878]<AN08>KONTYNUUJ GRĘ|
+[1879]<AN09>SKRÓTY KLAWIATUROWE (K)|
+[1913]<0862>Przychód|
+[1914]<0863>Ilość sprzedanych sztuk|
+[1916]<0865>Go|
+[1917]<0866>Kategoria|
+[1923]<0872>Udział w Rynku|
+[1929]<0878>Cena|
+[1930]<0879>Jakość|
+[1931]<0880>Marka|
+[1932]<0881>Łącznie|
+[1957]<0906>Finanse:|
+[1958]<0907>Zysk:|
+[1960]<0909>Lokalnie|
+[1961]<0910>Cena|
+[1962]<0911>Jakość|
+[1963]<0912>Marka|
+[1964]<0913>Łącznie|
+[1965]<0914>Ours|
+[1966]<0915>Średnio|
+[1967]<0916>Concern|
+[1968]<AQ00>Oczekiwanie na okres siewu|
+[1969]<AQ01>Siew|
+[1970]<AQ02>Wzrost|
+[1971]<AQ03>Zbiory|
+[1972]<0917>Zerwij powiązanie|
+[1973]<0918>Powiąż media|
+[1974]<0919>Advertising Unit|
+[1975]<0920>Poziom jednostki|
+[1976]<0921>Reklama telewizyjna|
+[1977]<0922>Reklama w gazecie|
+[1978]<0923>Reklama radiowa|
+[1979]<0924>Miesięczne wydatki na produkt|
+[1980]<0925>Koszt reklamy (CPM)|
+[1981]<0926>Wartość GRP|
+[1982]<0927>Powiąż|
+[1983]<0928>Przerwij|
+[1984]<0929>Zacznij uprawę|
+[1987]<0932>Jakość|
+[1988]<0933>Czas wzrostu|
+[1991]<0936>Rozpocznij hodowlę|
+[1994]<0939>Jakość|
+[1995]<0940>Baby Quantity|
+[1996]<0941>Adult Quantity|
+[1998]<0943>Wybierz produkt|
+[2005]<0950>Wyczyść zapas magaz.|
+[2015]<0960>Świadomość Marki|
+[2016]<0961>Przywiązanie do Marki|
+[2017]<0962>Wartość Marki|
+[2020]<0965>Ulepsz Tech.|
+[2024]<0969>Obecny poziom tech.: |
+[2025]<0970>\n\nDocelowy poziom tech.: |
+[2026]<0971>\n\nThe current functional unit will be down-graded |
+[2027]<0972>from level |
+[2028]<0973> to level |
+[2029]<0974>\n\nUlepszyć teraz ?|
+[2030]<0975>Jakość produktu|
+[2032]<0977>Jakość produkcji|
+[2033]<0978>Jakość surowca|
+[2037]<0982>Powiąż|
+[2038]<0983>Dostawca|
+[2039]<0984>Wstrzymaj zakup|
+[2041]<0986>Poziom jednostki|
+[2042]<0987>Koszt+transport|
+[2043]<0988>Jakość|
+[2044]<0989>Marka|
+[2045]<0990>Dostawca|
+[2046]<0991>Popyt|
+[2049]<0994>DOSTAWA WSTRZYMANA|
+[2056]<1001>Reserve|
+[2059]<1004> lat|
+[2060]<1005> year|
+[2062]<1007>R&D New Product|
+[2063]<1008>R&D Tech.|
+[2064]<1009>Apply Tech.|
+[2065]<1010>Terminate R&D|
+[2070]<1015>New Product R&D|
+[2073]<1018>Original Tech.|
+[2074]<1019>Tech. docelowa|
+[2075]<1020>Postęp|
+[2078]<1023>Sprzedaż wewn.|
+[2084]<1029>Cena|
+[2091]<1036>Wybierz|
+[2092]<1037>Input Material|
+[2093]<AR00>Bydło|
+[2094]<AR01>Owca|
+[2095]<AR02>Świnia|
+[2096]<AR03>Kurczak|
+[2097]<AR04>Koza|
+[2098]<AR05>Gęś|
+[2099]<AR06>Struś|
+[2100]<AR07>Indyk|
+[2101]<AS00>Bydło|
+[2102]<AS01>Owca|
+[2103]<AS02>Świnie|
+[2104]<AS03>Kurczaki|
+[2105]<AS04>Kozy|
+[2106]<AS05>Gęsi|
+[2107]<AS06>Strusie|
+[2108]<AS07>Indyki|
+[2109]<AT00>Wiadomości operacyjne|
+[2110]<AT01>Wiadomości finansowe|
+[2111]<AT02>Wiadomości technologiczne|
+[2112]<AT03>Wiadomości specjalne|
+[2113]<AU00>Wiadomości powiązane ze wszystkimi korporacjami|
+[2114]<AU01>Wiadomości powiązane z korporacjami, które kontrolujesz + Wiadomości specjalne|
+[2115]<AU02>Wiadomości powiązane z Twoją korporacją + Wiadomości specjalne|
+[2116]<AU03>Tylko wiadomości specjalne|
+[2117]<1038> Nowy konkurent|
+[2118]<1039> Zakładanie firmy|
+[2119]<1040> Likwidowanie firmy|
+[2120]<1041> Bankrupcja konkurentów|
+[2121]<1042> Wyczerpanie surowców naturalnych|
+[2122]<1043> Odkrycie nowych złóż surowca|
+[2123]<1044> Konkurent bierze pożyczkę|
+[2124]<1045> Konkurent spłaca pożyczkę|
+[2125]<1046> Konkurent emituje akcje|
+[2126]<1047> Konkurent kupuje/sprzedaje udziały|
+[2127]<1048> Konkurent uzyskuje/traci prawa własności|
+[2128]<1049> FUZJA|
+[2129]<1050> Roczna dywidenda w akcjach|
+[2130]<1051> Rezygnacja konkurentów|
+[2131]<1052> Odkrycie surowca|
+[2132]<1053> Nowe miasto|
+[2133]<1054> Konkurent deklaruje wojnę cenową|
+[2134]<1055> Dominacja całkowita|
+[2135]<1056> Oferta przetargowa|
+[2136]<1057> Tender Offer|
+[2137]<1058> Succeeding CEO|
+[2138]<1059> Nowy wynalazek|
+[2139]<1060> Nabycie technologii|
+[2140]<1061> Choroba zwierząt!|
+[2141]<1062> Pożar!|
+[2142]<1063> Plaga insektów! |
+[2143]<1064> Przełom technologiczny!|
+[2146]<1067> Firm Acquisition|
+[2147]<1068> Stock Offer|
+[2148]<1069> Fuzja!|
+[2149]<1070> buduje Kwaterę główną|
+[2152]<1073> buduje Fabrykę|
+[2153]<1074> otwiera ośrodek badawczy|
+[2154]<1075> buduje Farmę|
+[2155]<1076> buduje Tartak|
+[2156]<1077> buduje Kopalnię|
+[2157]<1078> Wierci Szyb naftowy|
+[2158]<1079>TV Station Started|
+[2159]<1080>Newspaper Publisher Started|
+[2160]<1081>Radio Station Started|
+[2161]<1082>Seaport Opened|
+[2162]<1083> Builds a Mansion|
+[2163]<1084> Builds an Apartment|
+[2164]<1085> Buduje budynek komercyjny|
+[2165]<1086> w |
+[2170]<1091> Zamyka |
+[2171]<1092> w |
+[2172]<1093> niedaleko |
+[2173]<1094> po |
+[2174]<1095> roku |
+[2175]<1096> latach |
+[2176]<1097>działalności.|
+[2177]<1098>NOWY PRZECIWNIK! |
+[2178]<1099> Dołącza do rywalizacji.|
+[2179]<1100>BANKRUPCJA! |
+[2181]<1102> Bankrutuje po|
+[2182]<1103> roku|
+[2183]<1104> latach|
+[2184]<1105> działalności.|
+[2185]<1106> Udziałowcy otrzymali |
+[2186]<1107> za akcję.|
+[2187]<1108> Rezerwa niedaleko |
+[2188]<1109> jest wyczerpana. |
+[2189]<1110>Produkcja w |
+[2190]<1111> Posiadany przez |
+[2191]<1112> Ceases.|
+[2192]<1113> Złoża odkryte niedaleko |
+[2193]<1114> Przypadkowe odkrycie złóż na placu budowy |
+[2194]<1115>'s New |
+[2198]<1119> Emituje |
+[2199]<1120> nowe akcje w cenie |
+[2200]<1121> za akcje.|
+[2201]<1122> Odkupuje |
+[2202]<1123> Kupuje |
+[2203]<1124> Sprzedaje |
+[2204]<1125> akcji |
+[2205]<1126>its Own Stock|
+[2206]<1127> w cenie |
+[2207]<1128> za akcję.|
+[2208]<1129> Przejmuje kontrolę nad |
+[2209]<1130> Traci kontrolę nad |
+[2210]<1131>PRZYJACIELSKA FUZJA! |
+[2211]<1132>FUZJA! |
+[2212]<1133> Łączy się z |
+[2213]<1134> Płaci roczną dywidendę w akcjach w cenie |
+[2214]<1135> za akcję.|
+[2215]<1136> ceny akcji).|
+[2216]<1137> Rezygnuje po |
+[2217]<1138> urzędowania jako CEO |
+[2227]<1148> Buys |
+[2228]<1149>Back |
+[2229]<1150> Shares of |
+[2230]<1151>its Own Stock|
+[2231]<1152> from |
+[2232]<1153> at |
+[2233]<1154> Per Share.|
+[2234]<1155> Succeeds |
+[2235]<1156> as the CEO of |
+[2236]<1157>Naukowcy z centrum badawczego |
+[2237]<1158> ogłaszają wynalazek. |
+[2238]<1159> został(-a) przedstawiony(-a) na konferencji prasowej.|
+[2241]<1162> Nieznana choroba dziesiątkuje |
+[2242]<1163> populację w |
+[2243]<1164> . |
+[2244]<1165> Are Destroyed.|
+[2245]<1166>Naukowcy z centrum badawczego |
+[2246]<1167>dokonali przełomu w badaniach. |
+[2247]<1168> Unvieled at Press Conference.|
+[2248]<1169>Naukowcy z centrum badawczego |
+[2249]<1170>dokonali przełomu w badaniach tech. |
+[2250]<1171>'s Production Technology.|
+[2251]<1172>Pożar zniszczył |
+[2252]<1173>'s |
+[2253]<1174> w |
+[2254]<1175> near |
+[2255]<1176>Plaga insektów zniszczyła uprawy w |
+[2256]<1177> . Pola są całkowicie pozbawione plonów.|
+[2257]<1178> Niedostępny na |
+[2258]<1179> godzin! Złodzieje kradną dobra warte |
+[2259]<1180> z miejskiego sklepu detalicznego.|
+[2260]<1181>GPW nurkuje |
+[2261]<1182>! Następuje paniczna wyprzedaż!|
+[2278]<1198>Player group |
+[2279]<1199> opuścił rozgrywkę. SI przejmie jego obowiązki.|
+[2280]<1200>Zapomnij!|
+[2281]<1201>Mogę zapłacić tyle.|
+[2282]<1202>Zgadzam się.|
+[2283]<1203>Pay Cash|
+[2284]<1204>Wyemituj akcje|
+[2285]<1205>I pay this much.|
+[2286]<1206>Zaakceptuj rezygnację|
+[2287]<1207>Zaoferuj podwyżkę|
+[2288]<1208>Zaakceptuj rezygnację|
+[2289]<1209>Offer this much|
+[2290]<1210>Chcę sprzedaż ten zakład za |
+[2291]<1211>Mam na sprzedaż ten zakład. Ile jesteś w stanie zaoferować ?|
+[2292]<1212>Chciałbym zakupić ten zakład za |
+[2293]<1213>OK, mogę sprzedać ten zakład za |
+[2294]<1214>Komisja papierów wartościowych i giełd nie zgadza się na ten zakup. \nYou cannot use a corporation that you control to buy a stock in which you personally have ownership.|
+[2295]<1215>Komisja papierów wartościowych i giełd nie zgadza się na ten zakup. \nYou cannot use a corporation that you control to buy a stock in which your corporation or its subsidiary has ownership.|
+[2296]<1216>The Securities and Exchange Commission does not approve your purchase. \nYou cannot buy a stock in which your corporation or its subsidiary has ownership.|
+[2297]<1217>Nie sprzedam tego zakładu za taką cenę.|
+[2298]<1218>Nie chcę sprzedać Ci akcji.|
+[2299]<1219>Odrzucam Twoją ofertę, domagam się |
+[2300]<1220> za akcję. \nZgadzasz się?|
+[2301]<1221>( Łącznie do zapłaty: |
+[2302]<1222>Nie masz wystarczającej gotówki do zakupu moich akcji.|
+[2303]<1223>W jaki sposób chciałbyć nabyć pozostałe udziały |
+[2304]<1224>1) Kupując je za |
+[2305]<1225>) |
+[2306]<1226>2) By issuing |
+[2307]<1227> new shares of |
+[2308]<1228> in exchange with |
+[2309]<1229> shares|
+[2310]<1230> offers you |
+[2311]<1231> per share for buying |
+[2312]<1232>back |
+[2313]<1233> shares (|
+[2314]<1234>) of |
+[2315]<1235>its own stock|
+[2316]<1236> held by |
+[2317]<1237>Cena rynkowa za akcję wynosi |
+[2318]<1238>. Czy zgadasz się na tę ofertę?|
+[2319]<1239>Oczekuję za tę nieruchomość |
+[2320]<1240> \nJej cena rynkowa wynosi |
+[2321]<1241>Cena rynkowa tej nieruchomości wynosi |
+[2322]<1242>. \nIle jesteś w stanie za nią zaproponować ?|
+[2323]<1243>Chciałbym zakupić tę nieruchomość za |
+[2324]<1244>OK, zgadzam się na sprzedaż za |
+[2325]<1245>Jestem |
+[2326]<1246> twojej firmy. \n|
+[2327]<1247>Czy przyjmujesz moją rezygnację ?|
+[2328]<1248>Jaka jest Twoja oferta ? \n|
+[2329]<1249>Moje obecne wynagrodzenie wynosi |
+[2330]<1250>Mogę podnieść Twoje roczne wynagrodzenie do |
+[2331]<1251>Przyjmuję Twoją ofertę i wycofuję swoją rezygnację.|
+[2332]<1252>Odrzucam Twoją ofertę i podtrzymuję moją rezygnację.|
+[2333]<1253>Przyjmuję Twoją ofertę i zgadzam się na zakup technologii.|
+[2334]<1254>Odrzucam tą ofertę.|
+[2336]<1256> counter offers you |
+[2337]<1257> offers you |
+[2338]<1258> per share for buying |
+[2339]<1259>back |
+[2340]<1260> shares (|
+[2341]<1261>) of |
+[2342]<1262>its own stock|
+[2343]<1263> held by |
+[2344]<1264>Cena rynkowa akcji wynosi |
+[2345]<1265>. Czy zgadasz się na tę ofertę?|
+[2346]<1266>Chciałbym sprzedać te akcje za |
+[2347]<1267>Odrzucam Twoją ofertę, oczekuję |
+[2348]<1268> za akcję. \nZgadzasz się?|
+[2349]<1269>( Łącznie do zapłaty: |
+[2350]<1270>Chciałbym kupić te akcje za |
+[2351]<1271>Chciałbym kupić tą nieruchomość za |
+[2352]<1272> \nCena rynkowa tej nieruchomości to |
+[2353]<1273>Chciałbym sprzedać tą nieruchomość za |
+[2354]<1274>Chciałbym sprzedać tą nieruchomość.\n|
+[2355]<1275>Ile jesteś w stanie za nią zaoferować?|
+[2356]<1276> \nCena rynkowa tej nieruchomości to |
+[2357]<1277>Chciałbym sprzedać tą nieruchomość za |
+[2358]<1278> \nCena rynkowa tej nieruchomości to |
+[2359]<1279>Chciałbym kupić tą nieruchomość za |
+[2360]<1280>Chciałbym kupić ten zakład za |
+[2361]<1281> \nJego cena rynkowa to |
+[2362]<1282>Chciałbym sprzedać to za |
+[2363]<1283>Mam na sprzedaż ten zakład.\n|
+[2364]<1284>Ile jestes w stanie zaoferować?|
+[2365]<1285> \nCena rynkowa tego zakładu to |
+[2366]<1286>Chciałbym sprzedać ten zakład za |
+[2367]<1287> \nCena rynkowa tego zakładu to |
+[2368]<1288>Chciałbym kupić ten zakład za |
+[2369]<1289>Chciałbym nabyć od Ciebie technologię produkcji %1s za %2s. Twój obecny poziom technologiczny wynosi %3s.|
+[2370]<1290>Mogę sprzedać tą technologię za |
+[2371]<1291>Mam na sprzedaż tą technologię.\n|
+[2372]<1292>Ile jestes w stanie zaoferować?|
+[2373]<1293>Chciałbym sprzedać tą technologię za |
+[2374]<1294>Chciałbym kupić tą technologię za |
+[2375]<1295>, CEO, |
+[2377]<1297>LOG|
+[2378]<1298>POPRZEDNIE|
+[2379]<1299>NASTĘPNE|
+[2380]<1300>ZAMKNIJ|
+[2381]<1301>Wynalezione|
+[2382]<1302>Znane przez Ciebie|
+[2383]<AT00>NIEDOSTĘPNY|
+[2384]<AT01>DOSTĘPNY|
+[2385]<AU00>WYŁĄCZONE|
+[2386]<AU01>WŁĄCZONE|
+[2387]<AV00>NONE|
+[2388]<AV01>BRIEF|
+[2389]<AV02>DETAILED|
+[2390]<1303>Game Options|
+[2392]<1305>DOMYŚLNIE SPRZEDAŻ WEWNĘTRZNA|
+[2393]<1306>DOMYŚLNIE AUTOMATYCZNIE USTAW DOSTAWCÓW|
+[2394]<1307>CONSIDER TENDER OFFER|
+[2395]<1308>MUZYKA|
+[2396]<1309>EFEKTY DŹWIĘKOWE|
+[2397]<1310>CONTEXT SENSITIVE HELP|
+[2398]<1311>AUTOMATYCZNY ZAPIS|
+[2400]<1313>STRACIŁEŚ CAŁĄ GOTÓWKĘ!!|
+[2401]<1314>CO CHCIAŁBYŚ ZROBIĆ ?|
+[2402]<1315>Jeśli nie zdecydujesz sie w ciągu |
+[2403]<1316> sekund, będziesz zmuszony ogłosić bankrupcję.|
+[2404]<1317>GOTÓWKA|
+[2405]<1318>WARTOŚĆ NETTO|
+[2406]<1319>POŻYCZ PIENIĄDZE Z BANKU|
+[2407]<1320>SPRZEDAJ AKCJE|
+[2408]<1321>OGŁOŚĆ BANKRUPCJĘ|
+[2409]<1322>WYEMITUJ NOWE AKCJE|
+[2410]<1323>ZAMKNIJ ZAKŁADY|
+[2411]<1324>BANKRUPCJA|
+[2412]<1325>Gotówka|
+[2413]<1326>Sprzedaż gruntów|
+[2414]<1327>Sprzedaż akcji|
+[2415]<1328>Spłata kredytu|
+[2416]<1329>Gotówka|
+[2417]<1330>Zapłata za akcję|
+[2435]<AU00>Zachowawczy|
+[2436]<AU01>Umiarkowany|
+[2437]<AU02>Agresywny|
+[2438]<AU03>Bardzo agresywny|
+[2439]<AU04>Człowiek|
+[2440]<AV00>Prezes|
+[2441]<AV01>Właściciel|
+[2442]<AV02>Prezes & Właściciel|
+[2443]<AV03>Dyrektor ds. operacyjnych (COO)|
+[2444]<AV04>Dyrektor ds. operacyjnych & Właściciel|
+[2445]<AV05>Dyrektor ds. marketingu (CMO)|
+[2446]<AV06>Dyrektor ds. marketingu & Właściciel|
+[2447]<AV07>Dyrektor ds. technicznych (CTO)|
+[2448]<AV08>Dyrektor ds. technicznych & Właściciel|
+[2449]<AW00>Prezes|
+[2450]<AW01>Właściciel|
+[2451]<AW02>Prezes & Właściciel|
+[2452]<AW03>Dyrektor ds. operacyjnych|
+[2453]<AW04>Dyrektor ds. operacyjnych & Właściciel|
+[2454]<AW05>Dyrektor ds. marketingu|
+[2455]<AW06>Dyrektor ds. marketingu & Właściciel|
+[2456]<AW07>Dyrektor ds. technicznych|
+[2457]<AW08>Dyrektor ds. technicznych & Właściciel|
+[2458]<1348>Niezależny inwestor|
+[2459]<1349>Niezależny inwestor|
+[2460]<1350>Bardzo złe|
+[2461]<1351>Złe|
+[2462]<1352>Neutralne|
+[2463]<1353>Dobre|
+[2464]<1354>Bardzo dobre|
+[2466]<1356> do |
+[2467]<1357>Zgadzasz się?|
+[2468]<1358>president|
+[2469]<1359>Prezes|
+[2470]<1360>, musisz zwolnić obecnego.|
+[2471]<1361>The severance for terminating the employment of \n|
+[2472]<1362>President of |
+[2473]<1363>C.E.O. [2483]<1373> is disappointed by your rejection.|
+[2474]<1364>, is |
+[2475]<1365> (tygodniowe wynagrodzenie) x |
+[2476]<1366> (lata pracy)|
+[2477]<1367>Czy chcesz kontynuować?|
+[2478]<1368>Which job you want to offer ?|
+[2479]<1369>Zaoferuj|
+[2480]<1370>Anuluj|
+[2481]<1371>President of |
+[2482]<1372>C.E.O. of | [2483]<1373> is disappointed by your rejection.|
+[2484]<1374>Wybierz|
+[2485]<1375>Anuluj|
+[2495]<1385>Dodaj|
+[2496]<1386>Usuń|
+[2497]<1387>Zamień|
+[2498]<1388>Posortuj|
+[2499]<1389>Użyj|
+[2500]<1390>Wyjdź|
+[2502]<1392> znaleziono bibliotekę planu|
+[2503]<1393>Wszystkie produkty|
+[2504]<1394>Produkt|
+[2505]<1395>Research on which product?|
+[2506]<1396>Czas trwania|
+[2508]<1398>Obecna Tech.|
+[2509]<1399>Najlep.
+Tech.|
+[2510]<1400> lat|
+[2511]<1401> rok|
+[2512]<1402> proceeds with a multiplayer save game.|
+[2513]<1403>Zapisz grę|
+[2515]<1405> Tryb oszustw aktywowany.|
+[2516]<1406>AKTYWUJ OSZUSTWA|
+[2517]<1407>Jak długo zajmie badanie?|
+[2518]<1408>Twój ostatni wykup dużej ilości akcji spowodował wzrost ceny rynkowej akcji. |
+[2519]<1409>Twoja ostatnia sprzedaż dużej ilości akcji spowodowała spadek ceny rynkowej akcji. |
+[2520]<1410>Cena rynkowa akcji wzrosła z |
+[2521]<1411>Cena rynkowa akcji spadła z |
+[2522]<1412> do |
+[2523]<1413>Your Average Price|
+[2524]<1414>Your Average Purchase Price|
+[2525]<1415>Your Total Sale Amount|
+[2526]<1416>Your Total Purchase Cost|
+[2533]<1423>Moje zakłady|
+[2534]<1424>Corp.|
+[2535]<1425>Zakład|
+[2536]<1426>Produkt|
+[2541]<AW00>Underdeveloped|
+[2542]<AW01>Developing|
+[2543]<AW02>Newly Industrialized|
+[2544]<AW03>Przemysłowy|
+[2552]<1433>Dostawa |
+[2553]<1434> została zatrzymana.|
+[2554]<1435>Dostawa |
+[2555]<1436> została zatrzymana, jednak został znaleziony nowy dostawca.|
+[2556]<1437>Projekt badawczy |
+[2557]<1438> został zakończony.\nObecny poziom tech.
+wynosi | [2558]<1439>Projekt badawczy |
+[2559]<1440> został zakończony.\n|
+[2560]<1441>Posiadasz teraz technologię umożliwiającą produkcję |
+[2561]<1442>Twoje |
+[2562]<1443> są wyczerpane.\nProdukcja w |
+[2563]<1444> została wstrzymana.|
+[2564]<1445>Łączny koszt produkcji |
+[2565]<1446> jest wyższy niż cena sprzedaży.|
+[2566]<1447>Zakład został nabyty w wyniku fuzji.|
+[2567]<1448>Wiadomość |
+[2568]<1449>Poprz.|
+[2569]<1450>Nast.|
+[2570]<1451>Idź do|
+[2571]<1452>Ignoruj|
+[2572]<1453>Ignoruj wszystkie|
+[2573]<1454>Wprowadź najnowszą znaną Ci tech. produkcji do tej jednostki.|
+[2574]<1455>Obecny poziom tech.: |
+[2575]<1456>Docelowy poziom tech.: |
+[2576]<1457>\nZmodernizować zakłady produkcyjne ?|
+[2577]<1458>Wiadomość |
+[2578]<1459>Poprz|
+[2579]<1460>Nast|
+[2580]<1461>Idź do|
+[2581]<1462>Yes|
+[2582]<1463>Yes All|
+[2583]<1464>Ignoruj|
+[2584]<1465>Ignoruj wszystkie|
+[2585]<1466>Miasta|
+[2586]<1467>Populacja|
+[2588]<1469>Realna stawka wynagrodzeń|
+[2589]<1470>Stopa bezrobocia|
+[2590]<1471>Obecne miasto|
+[2591]<1472>Wynik końcowy|
+[2594]<1475>Wprowadź nazwę korporacji oraz nazwę gracza.|
+[2595]<1476>Wprowadź nazwę gracza.|
+[2596]<1477>Wprowadź nazwę korporacji.|
+[2599]<1479>Wybierz rodzaj budynku|
+[2600]<1480>Niewystarczająca gotówka|
+[2601]<1481>OK, Zgadzam się na sprzedaż akcji.|
+[2602]<1482>Wylosuj|
+[2605]<1485>enabled the cheat mode.|
+[2606]<1486>Setup Cost|
+[2607]<1487>I want to buy your %1s for %2s.|
+[2608]<1488>Year|
+[2609]<1489>Koszt budowy: |
+[2610]<1490>Roczna stopa zwrotu z inwestycji:|
+[2611]<1491>Udział w Rynku w ost. 3 latach|
+[2612]<1492> Punkt(-y)|
+[2613]<1493>Wyczyść|
+[2614]<1494>Klienci|
+[2615]<1495>Firm Type|
+[2616]<1496>Monthly Purchase|
+[2618]<1498>NOWINKI|
+[2619]<1499>Cena|
+[2621]<1501>Nowa Cena|
+[2622]<1502>Rozmiar|
+[2623]<1503>Wszys.miasta|
+[2624]<1504>To miasto|
+[2626]<1506>Przegląd klientów|
+[2628]<1508>SPRAWOZDANIE FINANSOWE|
+[2629]<1509>Nie dysponujesz wystarczającą ilością gotówki.|
+[2630]<1510>Zanim zlikwidujesz biuro musisz zwolnić Dyrektora ds. operacyjnych.|
+[2631]<1511>Zanim zlikwidujesz biuro musisz zwolnić Dyrektora ds. marketingu.|
+[2632]<1512>Zanim zlikwidujesz biuro musisz zwolnić Dyrektora ds. technicznych.|
+[2635]<1515>Roczne wynagrodzenie|
+[2636]<1516>WYBIERZ MEDIA|
+[2637]<1517>AUTOMATYCZNIE WPROWADZAJ NOWE TECHNOLOGIE W ZAKŁADACH|
+[2638]<1518>Alert Messages (Hotkey: F5)|
+[2639]<1519>Nie sprzedam tej nieruchomości za taką cenę.|
+[2641]<1521>, CTO, |
+[2642]<1522>Obecnie nie są dostępne wolne miejsca reklamowe.|
+[2643]<1523>Advertisers Shares|
+[2644]<1524>Lokalni reklamodawcy |
+[2645]<1525>Zgadzam się na tę ofertę kupna technologii.|
+[2646]<1526>Twoja korporacja została przejęta przez |
+[2647]<1527>Nie możesz użyć tego planu, ponieważ nie posiadasz technologii produkcji tego przedmiotu.|
+[2648]<1528>Nie posiadasz wystarczającej gotówki aby użyć tego planu.|
+[2649]<1529>POMIŃ SAMOUCZEK|
+[2650]<1530>Czy na pewno chcesz pominąć ten samouczek?|
+[2651]<1531>ZRESTARTUJ SAMOUCZEK|
+[2652]<1532>Czy na pewno chcesz zrestartować ten samouczek?|
+[2653]<1533>OPIS SCENARIUSZA|
+[2654]<1534>Koniec gry!|
+[2655]<1535>%1s of %2s osiągnął cele i wygrał rozgrywkę.|
+[2656]<1536>Wstrzymane|
+[2657]<1537>Ten komunikat zostanie automatycznie zamknięty w ciągu %1d %1p{dnia|dni}|
+[2658]<1538>Automatycznie znajdź dostawców|
+[2659]<1539>Czy chcesz aby dostawcy zostali znalezieni automatycznie ?|
+[2663]<1543>Przejdź do sprawozdania celów|
+[2664]<1544>Zobacz dostawcę|
+[2665]<1545>Zobacz klientów|
+[2666]<1546>Pokaż wszystkie plany|
+[2667]<1547>Pokaż tylko plany, do których są dostępne wszystkie surowce|
+[2668]<1548>Roczny czynsz za m2|
+[2669]<1549>Obłożenie|
+[2670]<1550>Roczne ROI|
+[2672]<1552>Wartość rynkowa|
+[2673]<1553>Wydatki na PR|
+[2674]<1554>Wydatki na relacje inwestorskie|
+[2675]<1555>Agencje reklamowe|
+[2676]<1556>Current advertising pricing (CPM)|
+[2677]<1557>Budżet na rozwój nowych treści|
+[2678]<1558>Produkty sprzedawane w |
+[2679]<C001>Enlight Software|
+[2680]<C002>Game Design &|
+[2681]<C003>Trevor Chan|
+[2682]<C004>Project Management:|
+[2683]<C005>Programming:|
+[2684]<C006>Thomas Lam, Charles Wong, Stephen Ho|
+[2685]<C007>Graphics:|
+[2686]<C008>Ada Chui, Yanwei|
+[2687]<C009> |
+[2688]<C010>Marketing &|
+[2689]<C011>David Lee|
+[2690]<C012>User Community:|
+[2691]<C013>Testing:|
+[2692]<C014>Daniel Yip, Eva Cheung, Alan Ng|
+[2693]<C015> |
+[2694]<C016> |
+[2696]<NANA>N/A|
+[2697]<YOUR>Your |
+[2698]<RESI> zrezygnował z pracy.|
+[2699]<RES2>Wypowiedzenie|
+[2700]<LAYS> znaleziony(-e) plan(-y)|
+[2701]<LAYM>Nie masz wystarczającej gotówki aby zastosować ten układ.|
+[2702]<DOWR>Nie możesz dołączyć do rozgrywki ponieważ Twoja wersja gry różni się od wersji twórcy rozgrywki. The creator's version is %1s while your version is %2s.|
+[2705]<NCUR>CURRENCY REVALUED! The government announced that the currency will be revalued at a ratio of 1 to 100. Banknotes and coins for the revalued currency will enter into circulation.|
+[2708]<BL01>Zakup gruntów|
+[2709]<BL02>Niestety nie możesz zakupić tych gruntów.|
+[2710]<P36M>Ostatnie 36 miesięcy|
+[2711]<AIG4>Branża tech.|
+[2712]<AIG5>Branża medialna|
+[2713]<AIS4>Tech.|
+[2714]<AIS5>Media|
+[2715]<RDTL>Poziom tech.|
+[2716]<NCJ1>founded|
+[2717]<NCJ2>and serves as its|
+[2718]<NCJ3>joins|
+[2719]<NCJ4>as|
+[2720]<NCJ5>becomes|
+[2721]<NCJ6>of|
+[2722]<NCJ7>zrezygnował z pracy w|
+[2723]<NCJ8>zrezygnowała z pracy w|
+[2724]<NCJ9>discharged by|
+[2725]<NCK1>zbankrutował(-a) i |
+[2726]<NCK2>stracił pracę jako|
+[2727]<NCK3>straciła pracę jako|
+[2728]<NCK4>after serving as|
+[2729]<NCK5>after serving as|
+[2730]<MTH1>miesiąc|
+[2731]<MTH2>miesięcy|
+[2732]<NBF1>otwiera|
+[2733]<NBF2>otwiera|
+[2734]<NBF3>otwiera Magazyn|
+[2735]<NBF4>otwiera Stację TV|
+[2736]<NBF5>zakłada Wydawnictwo prasowe|
+[2737]<NBF6>otwiera Radiostację|
+[2738]<NBF7>buduje|
+[2739]<NBF8>donates to build a|
+[2740]<NBF9>zakłada|
+[2741]<NBG1>buduje (builds)|
+[2742]<NDF1>wyburza swoją rezydencję i sprzedaje grunty.|
+[2743]<NDF2>wyburza swoją rezydencję i sprzedaje grunty.|
+[2744]<NAC1>zmienia strategię korporacyjną z|
+[2745]<NAC2>na|
+[2746]<NBF1>acquires an|
+[2747]<NBF2>acquires a|
+[2748]<NBF3>in|
+[2749]<NBF4>from|
+[2750]<NBF5>for|
+[2751]<NSS1>splits its share|
+[2752]<NSS2>-for-1. Each shareholder now holds|
+[2753]<NSS3>times as many shares.|
+[2754]<NSS4>undergoes a 1-|
+[2755]<NSS5>stock merge, which groups every|
+[2756]<NSS6>shares into one share.|
+[2757]<NBM1>Zakupił|
+[2758]<NBM2>Zakupił|
+[2759]<NBM3>w|
+[2760]<NBM4>od|
+[2761]<NBM5>za|
+[2762]<NCI1>Bank centralny podnosi stopę procentową z|
+[2763]<NCI2>Bank centralny obniża stopę procentową z|
+[2764]<NCI3>na|
+[2765]<NCB1>Nowy prezes z|
+[2766]<NCB2>nastawieniem jest teraz na czele banku centralnego.|
+[2767]<NAT1>nabywa technologię|
+[2768]<NAT2>od|
+[2769]<NAT3>za|
+[2770]<NGV1>Rząd|
+[2771]<NGV2>rząd|
+[2772]<NAC0>Korporacja zmienia strategię|
+[2773]<NIR0>Bank centralny zmienia stopę procentową|
+[2774]<NBC0>Nowy prezes Banku Centralnego|
+[2775]<NCC0>Career Change|
+[2776]<NRI0>Riot|
+[2777]<NSC0>Krach na giełdzie|
+[2778]<NCR0>Denominacja waluty!|
+[2779]<CBA1>Inflation Hawk (modest)|
+[2780]<CBA2>Inflation Hawk (strong)|
+[2781]<CBA3>Neutral|
+[2782]<CBA4>Inflation Dove (modest)|
+[2783]<CBA5>Inflation Dove (strong)|
+[2784]<CBP1>Ultra Tight|
+[2785]<CBP2>Very Tight|
+[2786]<CBP3>Tight|
+[2787]<CBP4>Slightly Tight|
+[2788]<CBP5>Normal|
+[2789]<CBP6>Slightly Loose|
+[2790]<CBP7>Loose|
+[2791]<CBP8>Very Loose|
+[2792]<CBP9>Ultra Loose|
+[2793]<AAS1>Niestety ale SI posiada ułatwiony start i nie możesz nic budować aż do roku|
+[2794]<AAS2>Niestety ale SI posiada ułatwiony start i nie możesz zakupywać ziem aż do roku|
+[2795]<AAS3>Niestety ale SI posiada ułatwiony start i nie możesz zakupywać akcji aż do roku|
+[2796]<SCO1>Wynik:|
+[2797]<SCO2>milarda(-ów) x 100 x modyfikator inflacji|
+[2798]<BF01>Wybuduj rezydencję za swoją prywatną gotówkę.|
+[2799]<BF02>to relocate the firm.|
+[2800]<BF03>to duplicate the firm.|
+[2801]<BF04>to build the firm.|
+[2802]<BF05>Natężenie klientów:|
+[2803]<BF06>Compensation:|
+[2804]<BF07>Price Premium|
+[2805]<BF08>Przytrzymaj klawisz [SHIFT] aby zbudować więcej|
+[2806]<PSTO>Stock|
+[2807]<FRE1>Rozkład kosztów transportu|
+[2808]<FRE2>Ciężarówka - Dostawca do portu:|
+[2809]<FRE3>Statek dostawczy - Miasto do miasta:|
+[2810]<FRE4>Ciężarówka - Port do kupującego:|
+[2811]<FRE5>ŁĄCZNIE:|
+[2812]<FRE6>Koszt transportu|
+[2813]<FRE7>Transport od dostawcy do kupującego:|
+[2814]<SOW1>Zasiew w|
+[2815]<HARV>Zbiory w|
+[2816]<ITP1>Zorganizuj Intensywne Szkolenie|
+[2817]<ITP2>Efekt szkolenia będzie natychmiastowy jednak|
+[2818]<ITP3>jego opłacalność jest o 30% mniejsza niż normalnego szkolenia.|
+[2819]<ITP4>Jak dużo, na jednego pracownika, przeznaczysz na szkolenie?|
+[2820]<RDC1>twoja firma|
+[2821]<RDC2>twoich firm|
+[2822]<RDC3> of yours have been redirected to purchase |
+[2823]<RDC4> from the current firm.|
+[2824]<RDC5>To view the new client list, click the [Clients] button on your Sales Unit's interface.|
+[2825]<RDC6>Żadna z Jednostek Zaopatrzenia w Twoich firmach obecnie nie ma braków w dostawach tego typu produktu. \n\nW związku z tym nie podjęto żadnych działań.|
+[2826]<KOC1>King of Capitalism|
+[2827]<KOC2>To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|
+[2828]<KOC3>billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|
+[2829]<AGS1>Aby wygrać rozgrywkę musisz osiągnąć wyznaczone cele.|
+[2830]<AGS2>(Naciśnij klawisz "G" aby przejść do ekranu z celami rozgrywki)|
+[2831]<AGS3>Your possess expertise in the|
+[2832]<AGS4>industry (level:|
+[2833]<FEGN>The city government does not have enough cash.|
+[2834]<NCT1>To acquire the exclusive rights to develop and run the new city for|
+[2835]<NCT2>years, you must donate|
+[2836]<NCT3>to the city's treasury.|
+[2837]<AIG6>OS Focused|
+[2838]<AIS6>OS|
+[2839]<AIG7>Software Focused|
+[2840]<AIS7>Software|

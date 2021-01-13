@@ -14,22 +14,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222054Z" creationid="Olivier" creationdate="20210113T222054Z">
-        <seg>.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>.|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222059Z" creationid="Olivier" creationdate="20210113T222059Z">
-        <seg>.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>AI will take over the duties.|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -5718,14 +5702,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[1502]&lt;0567&gt;Score:|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T220908Z" creationid="Olivier" creationdate="20210113T220908Z">
-        <seg>[1502]&lt;0567&gt;Wynik:|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[1503]&lt;0568&gt; billion x 10|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -5754,22 +5730,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1506]&lt;0571&gt;Wynik:|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1507]&lt;0572&gt; x 20 =|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T220915Z" creationid="Olivier" creationdate="20210113T220915Z">
-        <seg>[1507]&lt;0572&gt; x 20 =|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1509]&lt;0574&gt; x 5 =|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T220918Z" creationid="Olivier" creationdate="20210113T220918Z">
-        <seg>[1509]&lt;0574&gt; x 5 =|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6126,14 +6086,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[1626]&lt;0651&gt; Unit|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221015Z" creationid="Olivier" creationdate="20210113T221015Z">
-        <seg>[1626]&lt;0651&gt; Jednostka|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[1632]&lt;AK00&gt;Operating Revenue|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -6198,73 +6150,97 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1640]&lt;AK08&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>publ.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1641]&lt;AK09&gt;Stock Return|</seg>
+      </tuv>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1640]&lt;AK08&gt;Write-offs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1642]&lt;AL00&gt;6 months|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221057Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1642]&lt;AL00&gt;6 mies.|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1641]&lt;AK09&gt;Zwroty z akcji|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1643]&lt;AL01&gt;1 year|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221109Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1643]&lt;AL01&gt;1 rok|&lt;segment 3689 ¶&gt;</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1642]&lt;AL00&gt;6 mies.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1644]&lt;AL02&gt;2 years|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221133Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1644]&lt;AL02&gt;2 lata|&lt;segment 3690 ¶&gt;</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1643]&lt;AL01&gt;1 rok|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1645]&lt;AL03&gt;3 years|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221142Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1645]&lt;AL03&gt;3 lata|&lt;segment 3691 ¶&gt;</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1644]&lt;AL02&gt;2 lata|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1646]&lt;AL04&gt;5 years|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221149Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1646]&lt;AL04&gt;5 lat|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1645]&lt;AL03&gt;3 lata|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1647]&lt;AL05&gt;10 years|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221202Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>1647]&lt;AL05&gt;10 lat|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1646]&lt;AL04&gt;5 lat|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1648]&lt;0652&gt;Stock Price Graph|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221237Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1648]&lt;0652&gt;Wykres ceny akcji|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1647]&lt;AL05&gt;10 lat|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1650]&lt;0654&gt;Day|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221242Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1650]&lt;0654&gt;Dzień|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1648]&lt;0652&gt;Wykres ceny akcji|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1651]&lt;0655&gt;Month|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221300Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1650]&lt;0654&gt;Dzień|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1652]&lt;0656&gt;Mansion|</seg>
+      </tuv>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1651]&lt;0655&gt;Miesiąc|</seg>
       </tuv>
     </tu>
@@ -6272,31 +6248,39 @@
       <tuv lang="en-US">
         <seg>[1653]&lt;0657&gt; year|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221421Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1653]&lt;0657&gt; rok|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1652]&lt;0656&gt;Mansion|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1654]&lt;0658&gt; years|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221426Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1654]&lt;0658&gt; lat|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1653]&lt;0657&gt; rok|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1656]&lt;0660&gt;Your Personal Wealth|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221440Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1656]&lt;0660&gt;Twój osobisty majątek|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1654]&lt;0658&gt; lat|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1657]&lt;0661&gt;Net Worth of Your Corporation|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221515Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1656]&lt;0660&gt;Twój osobisty majątek|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1658]&lt;0662&gt;Market Cap of Your Corporation|</seg>
+      </tuv>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1657]&lt;0661&gt;Wartość netto Twojej korporacji|</seg>
       </tuv>
     </tu>
@@ -6304,23 +6288,31 @@
       <tuv lang="en-US">
         <seg>[1659]&lt;0663&gt;Annual Revenue of Your Corporation|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221534Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1659]&lt;0663&gt;Roczne przychody Twojej korporacji|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1658]&lt;0662&gt;Market Cap of Your Corporation|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1660]&lt;0664&gt;Annual Operating Profit of Your Corporation|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221543Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1660]&lt;0664&gt;Roczny zysk operacyjny Twojej firmy|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1659]&lt;0663&gt;Roczne przychody Twojej korporacji|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1661]&lt;0665&gt;Net Worth of Companies Under Your Control|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221551Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1660]&lt;0664&gt;Roczny zysk operacyjny Twojej firmy|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1662]&lt;0666&gt;Market Cap of Companies Under Your Control|</seg>
+      </tuv>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1661]&lt;0665&gt;Wartość netto firm pod Twoją kontrolą|</seg>
       </tuv>
     </tu>
@@ -6328,8 +6320,8 @@
       <tuv lang="en-US">
         <seg>[1663]&lt;0667&gt;Annual Revenue of Companies Under Your Control|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221617Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1663]&lt;0667&gt;Roczne przychody firm pod Twoją kontrolą|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1662]&lt;0666&gt;Market Cap of Companies Under Your Control|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6342,18 +6334,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[1665]&lt;0669&gt;No.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221643Z" creationid="Olivier" creationdate="20210113T221643Z">
-        <seg>[1665]&lt;0669&gt;Liczba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[1666]&lt;0670&gt;Total No.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221733Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[1666]&lt;0670&gt;Łączna</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1665]&lt;0669&gt;Liczba firm pod Twoją kontrolą|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6390,22 +6374,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[1671]&lt;0675&gt;No.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221808Z" creationid="Olivier" creationdate="20210113T221808Z">
-        <seg>[1671]&lt;0675&gt;Liczba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1672]&lt;0676&gt;No.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221835Z" creationid="Olivier" creationdate="20210113T221835Z">
-        <seg>[1672]&lt;0676&gt;Liczba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[1673]&lt;0677&gt;Market Dominance of the |</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -6426,14 +6394,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1675]&lt;0679&gt;Dominacja rynkowa |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1676]&lt;0680&gt; Industry|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221912Z" creationid="Olivier" creationdate="20210113T221912Z">
-        <seg>[1676]&lt;0680&gt; Przemysł|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6530,14 +6490,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1808]&lt;0812&gt;Wartości 2|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1809]&lt;0813&gt;Industries|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222117Z" creationid="Olivier" creationdate="20210113T222117Z">
-        <seg>[1809]&lt;0813&gt;Przemysł|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6646,22 +6598,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[1834]&lt;0838&gt;No.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222436Z" creationid="Olivier" creationdate="20210113T222436Z">
-        <seg>[1834]&lt;0838&gt;Liczba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1836]&lt;0840&gt;Total No.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222459Z" creationid="Olivier" creationdate="20210113T222459Z">
-        <seg>[1836]&lt;0840&gt;Łączna</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[1837]&lt;0841&gt;Operating Profit Margin|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -6690,22 +6626,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1840]&lt;0844&gt;Własność|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1841]&lt;0845&gt;No.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222546Z" creationid="Olivier" creationdate="20210113T222546Z">
-        <seg>[1841]&lt;0845&gt;Liczba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1842]&lt;0846&gt;No.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222616Z" creationid="Olivier" creationdate="20210113T222616Z">
-        <seg>[1842]&lt;0846&gt;Liczba</seg>
       </tuv>
     </tu>
     <tu>
@@ -6790,34 +6710,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[1855]&lt;0859&gt; year)|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222704Z" creationid="Olivier" creationdate="20210113T222704Z">
-        <seg>[1855]&lt;0859&gt; roku)|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[1856]&lt;0860&gt; years)|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1856]&lt;0860&gt; lat)|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1857]&lt;AL00&gt;|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222708Z" creationid="Olivier" creationdate="20210113T222708Z">
-        <seg>[1857]&lt;AL00&gt;|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1859]&lt;AL02&gt; billion|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222841Z" creationid="Olivier" creationdate="20210113T222841Z">
-        <seg>[1680]&lt;0683&gt; miliard|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6882,14 +6778,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1868]&lt;AM07&gt;Biuro dyrektora ds. technicznych|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1869]&lt;AM08&gt;NONE|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222906Z" creationid="Olivier" creationdate="20210113T222906Z">
-        <seg>[1869]&lt;AM08&gt;BRAK|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6986,14 +6874,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[1914]&lt;0863&gt;Ilość sprzedanych sztuk|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[1916]&lt;0865&gt;Go|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222937Z" creationid="Olivier" creationdate="20210113T222937Z">
-        <seg>[1916]&lt;0865&gt;Idź|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7454,26 +7334,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2056]&lt;1001&gt;Reserve|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223031Z" creationid="Olivier" creationdate="20210113T223031Z">
-        <seg>[2056]&lt;1001&gt;Zapas|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2059]&lt;1004&gt; years|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[2059]&lt;1004&gt; lat|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2060]&lt;1005&gt; year|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223040Z" creationid="Olivier" creationdate="20210113T223040Z">
-        <seg>[2060]&lt;1005&gt; roku|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7858,14 +7722,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[2135]&lt;1056&gt; Oferta przetargowa|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2136]&lt;1057&gt; Tender Offer|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223120Z" creationid="Olivier" creationdate="20210113T223120Z">
-        <seg>[2136]&lt;1057&gt; Oferta Przetargowa|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8326,46 +8182,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2227]&lt;1148&gt; Buys |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223305Z" creationid="Olivier" creationdate="20210113T223305Z">
-        <seg>[2227]&lt;1148&gt; Kupuje |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2228]&lt;1149&gt;Back |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223326Z" creationid="Olivier" creationdate="20210113T223326Z">
-        <seg>[2228]&lt;1149&gt;Powrót |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2229]&lt;1150&gt; Shares of |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223401Z" creationid="Olivier" creationdate="20210113T223316Z">
-        <seg>[2229]&lt;1150&gt; akcji|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2231]&lt;1152&gt; from |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223430Z" creationid="Olivier" creationdate="20210113T223430Z">
-        <seg>[2231]&lt;1152&gt; od |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2233]&lt;1154&gt; Per Share.|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223445Z" creationid="Olivier" creationdate="20210113T223445Z">
-        <seg>[2233]&lt;1154&gt; za akcję.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2236]&lt;1157&gt;Researchers at |</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -8430,14 +8246,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2247]&lt;1168&gt; Unvieled at Press Conference.|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223601Z" creationid="Olivier" creationdate="20210113T223501Z">
-        <seg>[2247]&lt;1168&gt; został(-a) przedstawiony(-a) na konferencji prasowej.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2248]&lt;1169&gt;Researchers at |</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -8470,14 +8278,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2254]&lt;1175&gt; near |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223632Z" creationid="Olivier" creationdate="20210113T223632Z">
-        <seg>[2254]&lt;1175&gt; niedaleko |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2255]&lt;1176&gt;Plague of Insects Descends on Crops in |</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -8488,8 +8288,8 @@
       <tuv lang="en-US">
         <seg>[2256]&lt;1177&gt; Area.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223700Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2256]&lt;1177&gt;</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2256]&lt;1177&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -8522,14 +8322,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[2260]&lt;1181&gt;GPW nurkuje |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2261]&lt;1182&gt;!</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223716Z" creationid="Olivier" creationdate="20210113T223716Z">
-        <seg>[2261]&lt;1182&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8646,14 +8438,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2296]&lt;1216&gt;The Securities and Exchange Commission does not approve your purchase.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223750Z" creationid="Olivier" creationdate="20210113T223750Z">
-        <seg>[2295]&lt;1215&gt;Komisja papierów wartościowych i giełd nie zgadza się na ten zakup.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2297]&lt;1217&gt;I don't want to sell my firm at this price to you.|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -8726,58 +8510,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2306]&lt;1226&gt;2) By issuing |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223823Z" creationid="Olivier" creationdate="20210113T223823Z">
-        <seg>[2306]&lt;1226&gt;2) Emituje |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2307]&lt;1227&gt; new shares of |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223831Z" creationid="Olivier" creationdate="20210113T223812Z">
-        <seg>[2307]&lt;1227&gt; nowe akcje w cenie |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2309]&lt;1229&gt; shares|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223842Z" creationid="Olivier" creationdate="20210113T223842Z">
-        <seg>[2309]&lt;1129&gt; akcji |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2312]&lt;1232&gt;back |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223859Z" creationid="Olivier" creationdate="20210113T223859Z">
-        <seg>[2312]&lt;1232&gt;powrót |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2313]&lt;1233&gt; shares (|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223908Z" creationid="Olivier" creationdate="20210113T223908Z">
-        <seg>[2313]&lt;1233&gt; akcji |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2317]&lt;1237&gt;The market price of the stock is |</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[2317]&lt;1237&gt;Cena rynkowa za akcję wynosi |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2318]&lt;1238&gt;.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223918Z" creationid="Olivier" creationdate="20210113T223918Z">
-        <seg>[2318]&lt;1238&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8802,14 +8538,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[2321]&lt;1241&gt;Cena rynkowa tej nieruchomości wynosi |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2322]&lt;1242&gt;.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223931Z" creationid="Olivier" creationdate="20210113T223931Z">
-        <seg>[2322]&lt;1242&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8906,22 +8634,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[2334]&lt;1254&gt;Odrzucam tą ofertę.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2339]&lt;1259&gt;back |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224011Z" creationid="Olivier" creationdate="20210113T223948Z">
-        <seg>[2339]&lt;1259&gt;powrót |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2340]&lt;1260&gt; shares (|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224018Z" creationid="Olivier" creationdate="20210113T223950Z">
-        <seg>[2340]&lt;1260&gt; akcji |</seg>
       </tuv>
     </tu>
     <tu>
@@ -9166,14 +8878,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2375]&lt;1295&gt;, CEO, |</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224056Z" creationid="Olivier" creationdate="20210113T224056Z">
-        <seg>[2375]&lt;1295&gt;, Prezes, |</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2378]&lt;1298&gt;PREVIOUS|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -9242,14 +8946,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[2386]&lt;AU01&gt;WŁĄCZONE|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2387]&lt;AV00&gt;NONE|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224110Z" creationid="Olivier" creationdate="20210113T224110Z">
-        <seg>[2387]&lt;AV00&gt;BRAK|</seg>
       </tuv>
     </tu>
     <tu>
@@ -9718,14 +9414,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2473]&lt;1363&gt;C.E.O.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224204Z" creationid="Olivier" creationdate="20210113T224157Z">
-        <seg>[2473]&lt;1363&gt;C.E.O.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2475]&lt;1365&gt; (weekly salary) x |</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -9774,42 +9462,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2483]&lt;1373&gt; is disappointed by your rejection.|</seg>
+      </tuv>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2484]&lt;1374&gt;Wybierz|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2484]&lt;1374&gt;Select|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224302Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2484]&lt;1374&gt;Wybierz|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2485]&lt;1375&gt;Anuluj|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2485]&lt;1375&gt;Cancel|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224349Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2485]&lt;1375&gt;Anuluj|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2495]&lt;1385&gt;Dodaj|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2495]&lt;1385&gt;Add|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224339Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2495]&lt;1385&gt;Dodaj|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2496]&lt;1386&gt;Usuń|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2496]&lt;1386&gt;Delete|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224432Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2496]&lt;1386&gt;Usuń|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2497]&lt;1387&gt;Zamień|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2497]&lt;1387&gt;Replace|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224427Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2497]&lt;1387&gt;Zamień|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2498]&lt;1388&gt;Posortuj|</seg>
       </tuv>
     </tu>
     <tu>
@@ -9824,64 +9520,72 @@
       <tuv lang="en-US">
         <seg>[2499]&lt;1389&gt;Use|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224758Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2499]&lt;1389&gt;Użyj|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2500]&lt;1390&gt;Wyjdź|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2500]&lt;1390&gt;Exit|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224740Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2500]&lt;1390&gt;Wyjdź|&lt;segment 4262 ¶&gt;</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2502]&lt;1392&gt; znaleziono bibliotekę planu|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2502]&lt;1392&gt; layout plan found|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224644Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2502]&lt;1392&gt; znaleziono bibliotekę planu|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2503]&lt;1393&gt;Wszystkie produkty|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2503]&lt;1393&gt;All products|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224640Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2503]&lt;1393&gt;Wszystkie produkty|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2504]&lt;1394&gt;Produkt|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2504]&lt;1394&gt;Product|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224629Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2504]&lt;1394&gt;Produkt|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2505]&lt;1395&gt;Research on which product?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2505]&lt;1395&gt;Research on which product?|</seg>
+      </tuv>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2506]&lt;1396&gt;Czas trwania|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2506]&lt;1396&gt;Duration|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224542Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2506]&lt;1396&gt;Czas trwania|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2508]&lt;1398&gt;Obecna Tech.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2508]&lt;1398&gt;Current Tech.|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224528Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2508]&lt;1398&gt;Obecna Tech.|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2509]&lt;1399&gt;Najlep.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2509]&lt;1399&gt;Top Tech.|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224518Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2509]&lt;1399&gt;Najlep.</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>Tech.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -9998,14 +9702,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2542]&lt;AW01&gt;Developing|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224849Z" creationid="Olivier" creationdate="20210113T224849Z">
-        <seg>[1182]&lt;0336&gt;Rozwój|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2543]&lt;AW02&gt;Newly Industriaized|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -10072,8 +9768,8 @@
       <tuv lang="en-US">
         <seg>[2558]&lt;1439&gt;Your R&amp;D of |</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T225001Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>[2558]&lt;1439&gt;Projekt badawczy |</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>wynosi | [2558]&lt;1439&gt;Projekt badawczy |</seg>
       </tuv>
     </tu>
     <tu>
@@ -10370,14 +10066,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>[2602]&lt;1482&gt;Wylosuj|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[2608]&lt;1488&gt;Year|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T225336Z" creationid="Olivier" creationdate="20210113T225327Z">
-        <seg>[2608]&lt;1488&gt;Rok|</seg>
       </tuv>
     </tu>
     <tu>
@@ -11222,14 +10910,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2781]&lt;CBA3&gt;Neutral|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T225833Z" creationid="Olivier" creationdate="20210113T225833Z">
-        <seg>[2781]&lt;CBA3&gt;Neutralne|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
@@ -11470,34 +11150,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>\n|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223939Z" creationid="Olivier" creationdate="20210113T223939Z">
-        <seg>\n|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>of Companies Under Your Control|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221658Z" creationid="Olivier" creationdate="20210113T221637Z">
-        <seg>firm pod Twoją kontrolą|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>of Controlled Companies|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222443Z" creationid="Olivier" creationdate="20210113T222415Z">
-        <seg>kontrolowanych firm|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>of Employees in Your Corporation|</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221736Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>liczba pracowników Twojej korporacji|</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[1666]&lt;0670&gt;Łączna liczba pracowników Twojej korporacji|</seg>
       </tuv>
     </tu>
     <tu>
@@ -11510,42 +11166,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>of Product Classes Being Produced|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222600Z" creationid="Olivier" creationdate="20210113T222543Z">
-        <seg>wytwarzanych rodzin produktów|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>of Product Classes Produced by Your Corporation|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221822Z" creationid="Olivier" creationdate="20210113T221801Z">
-        <seg>rodzin produktów wytwarzanych przez Twoją korp.|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>of Product Classes|</seg>
       </tuv>
       <tuv lang="pl" changeid="Olivier" changedate="20210113T182549Z" creationid="Olivier" creationdate="20210113T182506Z">
         <seg>Rodzin Produktów|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>of Product Types Being Produced|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T222642Z" creationid="Olivier" creationdate="20210113T222642Z">
-        <seg>wytwarzanych typów produktu|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>of Product Types Produced by Your Corporation|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T221842Z" creationid="Olivier" creationdate="20210113T221830Z">
-        <seg>różnych produktów wytwarzanych przez Twoją korp|</seg>
       </tuv>
     </tu>
     <tu>
@@ -11600,8 +11224,8 @@
       <tuv lang="en-US">
         <seg>of |</seg>
       </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T224210Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
-        <seg>of |</seg>
+      <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
+        <seg>[2483]&lt;1373&gt; is disappointed by your rejection.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -11610,14 +11234,6 @@
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
         <seg>nieznana przez Ciebie)|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T223145Z" creationid="Olivier" creationdate="20210113T223145Z">
-        <seg>|</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

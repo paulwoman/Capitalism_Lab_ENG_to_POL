@@ -11222,14 +11222,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[2781]&lt;CBA3&gt;Neutral|</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Olivier" changedate="20210113T225833Z" creationid="Olivier" creationdate="20210113T225833Z">
-        <seg>[2781]&lt;CBA3&gt;Neutralne|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|</seg>
       </tuv>
       <tuv lang="pl" changeid="OmegaT Aligner" changedate="20210113T180808Z" creationid="OmegaT Aligner" creationdate="20210113T180808Z">
